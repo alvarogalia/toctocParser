@@ -4,11 +4,12 @@ import org.json.JSONObject;
 import java.io.*;
 import java.net.HttpURLConnection;
 import java.net.URL;
+import java.nio.charset.StandardCharsets;
 import java.util.zip.GZIPInputStream;
 
 public class DescargaPropiedades {
 
-    public static void main(String[] args) throws FileNotFoundException, IOException {
+    public static void main(String[] args) throws IOException {
         try (BufferedReader br = new BufferedReader(new FileReader("sh\\salida_arriendo_departamentos.json"))) {
         //try (BufferedReader br = new BufferedReader(new FileReader("sh\\salida_arriendo_casas.json"))) {
             File fout = new File("salida_arriendo_departamentos.json");
@@ -20,9 +21,9 @@ public class DescargaPropiedades {
             FileOutputStream fos = new FileOutputStream(fout);
             FileOutputStream fosError = new FileOutputStream(foutError);
             FileOutputStream fosCSV = new FileOutputStream(foutcsv);
-            BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(fos, "UTF-8"));
-            BufferedWriter bwError = new BufferedWriter(new OutputStreamWriter(fosError, "UTF-8"));
-            BufferedWriter bwCSV = new BufferedWriter(new OutputStreamWriter(fosCSV, "UTF-8"));
+            BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(fos, StandardCharsets.UTF_8));
+            BufferedWriter bwError = new BufferedWriter(new OutputStreamWriter(fosError, StandardCharsets.UTF_8));
+            BufferedWriter bwCSV = new BufferedWriter(new OutputStreamWriter(fosCSV, StandardCharsets.UTF_8));
 
             String line = br.readLine();
             JSONObject json = new JSONObject(line);
@@ -60,11 +61,11 @@ public class DescargaPropiedades {
                 int status = uc.getResponseCode();
 
                 if(status == 200 || status == 201){
-                    Reader reader = null;
+                    Reader reader;
                     if ("gzip".equals(uc.getContentEncoding())) {
-                        reader = new InputStreamReader(new GZIPInputStream(uc.getInputStream()), "UTF-8");
+                        reader = new InputStreamReader(new GZIPInputStream(uc.getInputStream()), StandardCharsets.UTF_8);
                     } else {
-                        reader = new InputStreamReader(uc.getInputStream(), "UTF-8");
+                        reader = new InputStreamReader(uc.getInputStream(), StandardCharsets.UTF_8);
                     }
 
                     StringBuilder builder = new StringBuilder();
@@ -88,19 +89,19 @@ public class DescargaPropiedades {
                     JSONObject Data;
                     JSONObject Propiedad;
                     JSONObject Estadistica;
-                    Double MetrosUtiles                 = 0.0;
-                    Double MetrosTerraza                = 0.0;
-                    Double MetrosConstruidos            = 0.0;
-                    Double MetrosTerreno                = 0.0;
-                    Double PrecioDesde                  = 0.0;
-                    Double PrecioHasta                  = 0.0;
-                    Double PrecioUF                     = 0.0;
-                    Double PrecioPesos                  = 0.0;
-                    Double Latitud                      = 0.0;
-                    Double Longitud                     = 0.0;
+                    double MetrosUtiles                 = 0.0;
+                    double MetrosTerraza                = 0.0;
+                    double MetrosConstruidos            = 0.0;
+                    double MetrosTerreno                = 0.0;
+                    double PrecioDesde                  = 0.0;
+                    double PrecioHasta                  = 0.0;
+                    double PrecioUF                     = 0.0;
+                    double PrecioPesos                  = 0.0;
+                    double Latitud                      = 0.0;
+                    double Longitud                     = 0.0;
                     int Dormitorios                     = 0;
                     int Banos                           = 0;
-                    int AñoConstruccion                 = 0;
+                    int AnoConstruccion                 = 0;
                     int Id                              = 0;
                     int CantidadVisitas                 = 0;
                     int CantidadFavoritos               = 0;
@@ -119,7 +120,7 @@ public class DescargaPropiedades {
                             if(!JSONObject.NULL.equals(Propiedad.get("MetrosTerreno"))){MetrosTerreno = Propiedad.getDouble("MetrosTerreno");}
                             if(!JSONObject.NULL.equals(Propiedad.get("Dormitorios"))){Dormitorios = Propiedad.getInt("Dormitorios");}
                             if(!JSONObject.NULL.equals(Propiedad.get("Banos"))){Banos = Propiedad.getInt("Banos");}
-                            if(!JSONObject.NULL.equals(Propiedad.get("AñoConstruccion"))){AñoConstruccion = Propiedad.getInt("AñoConstruccion");}
+                            if(!JSONObject.NULL.equals(Propiedad.get("AñoConstruccion"))){AnoConstruccion = Propiedad.getInt("AñoConstruccion");}
                             if(!JSONObject.NULL.equals(Propiedad.get("NombreCorredora"))){NombreCorredora = Propiedad.getString("NombreCorredora");}
                             if(!JSONObject.NULL.equals(Propiedad.get("Id"))){Id = Propiedad.getInt("Id");}
                             if(!JSONObject.NULL.equals(Propiedad.get("EstaPublicada"))){EstaPublicada = Propiedad.getBoolean("EstaPublicada");}
@@ -143,7 +144,7 @@ public class DescargaPropiedades {
                         if(!JSONObject.NULL.equals(Data.get("Exitosa"))){Exitosa = Data.getBoolean("Exitosa");}
                     }
 
-                    bwCSV.write(Id+";"+TipoOperacion+";"+Region+";"+Comuna+";"+EstaPublicada+";"+EstaEliminada+";"+CodigoPropiedad+";"+Dormitorios+";"+Banos+";"+AñoConstruccion+";"+FechaPublicacionDespliegue+";"+
+                    bwCSV.write(Id+";"+TipoOperacion+";"+Region+";"+Comuna+";"+EstaPublicada+";"+EstaEliminada+";"+CodigoPropiedad+";"+Dormitorios+";"+Banos+";"+AnoConstruccion+";"+FechaPublicacionDespliegue+";"+
                             MetrosUtiles+";"+MetrosConstruidos+";"+MetrosTerreno+";"+MetrosTerraza+";"+
                             PrecioDesde+";"+PrecioHasta+";"+PrecioPesos+";"+PrecioUF+";"+
                             Latitud+";"+Longitud+";"+CantidadVisitas+";"+CantidadFavoritos+";"+CantidadInteresados+";"+
