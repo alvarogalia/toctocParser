@@ -9,14 +9,14 @@ import java.util.zip.GZIPInputStream;
 public class DescargaPropiedades {
 
     public static void main(String[] args) throws FileNotFoundException, IOException {
-        //try (BufferedReader br = new BufferedReader(new FileReader("salida_arriendo_departamentos.json"))) {
-        try (BufferedReader br = new BufferedReader(new FileReader("sh\\salida_arriendo_casas.json"))) {
-            //File fout = new File("salida_arriendo_departamentos.json");
-            //File foutcsv = new File("salida_arriendo_departamentos.csv");
-            //File foutError = new File("salida_arriendo_departamentos_error.json");
-            File fout = new File("salida_arriendo_casas.json");
-            File foutcsv = new File("salida_arriendo_casas.csv");
-            File foutError = new File("salida_arriendo_casas_error.json");
+        try (BufferedReader br = new BufferedReader(new FileReader("sh\\salida_arriendo_departamentos.json"))) {
+        //try (BufferedReader br = new BufferedReader(new FileReader("sh\\salida_arriendo_casas.json"))) {
+            File fout = new File("salida_arriendo_departamentos.json");
+            File foutcsv = new File("salida_arriendo_departamentos.csv");
+            File foutError = new File("salida_arriendo_departamentos_error.json");
+            //File fout = new File("salida_arriendo_casas.json");
+            //File foutcsv = new File("salida_arriendo_casas.csv");
+            //File foutError = new File("salida_arriendo_casas_error.json");
             FileOutputStream fos = new FileOutputStream(fout);
             FileOutputStream fosError = new FileOutputStream(foutError);
             FileOutputStream fosCSV = new FileOutputStream(foutcsv);
