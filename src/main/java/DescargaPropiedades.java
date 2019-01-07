@@ -9,7 +9,7 @@ import java.util.zip.GZIPInputStream;
 public class DescargaPropiedades {
 
     public static void main(String[] args) throws FileNotFoundException, IOException {
-        try (BufferedReader br = new BufferedReader(new FileReader("D:\\Users\\Alvaro\\Desktop\\salida.json"))) {
+        try (BufferedReader br = new BufferedReader(new FileReader("salida.json"))) {
             File fout = new File("salidaJson.json");
             File foutcsv = new File("salidaCSV.csv");
             File foutError = new File("salidaJsonError.json");
