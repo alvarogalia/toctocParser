@@ -10,9 +10,9 @@ import java.util.zip.GZIPInputStream;
 public class ArriendoCasas extends Thread{
     public void run() {
         try (BufferedReader br = new BufferedReader(new FileReader("sh\\salida_arriendo_casas.json"))) {
-            File fout = new File("salida_arriendo_casas.json");
-            File foutcsv = new File("salida_arriendo_casas.csv");
-            File foutError = new File("salida_arriendo_casas_error.json");
+            File fout = new File("out/salida_arriendo_casas.json");
+            File foutcsv = new File("out/salida_arriendo_casas.csv");
+            File foutError = new File("out/salida_arriendo_casas_error.json");
             FileOutputStream fos = new FileOutputStream(fout);
             FileOutputStream fosError = new FileOutputStream(foutError);
             FileOutputStream fosCSV = new FileOutputStream(foutcsv);
