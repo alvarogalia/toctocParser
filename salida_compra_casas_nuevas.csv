@@ -1,0 +1,521 @@
+Id;TipoOperacion;Region;Comuna;EstaPublicada;EstaEliminada;CodigoPropiedad;Dormitorios;Banos;AñoConstruccion;FechaPublicacionDespliegue;MetrosUtiles;MetrosConstruidos;MetrosTerreno;MetrosTerraza;PrecioDesde;PrecioHasta;PrecioPesos;PrecioUF;Latitud;Longitud;CantidadVisitas;CantidadFavoritos;CantidadInteresados;Exitosa;NombreCorredora;UriFicha
+840166;Venta Nuevo;Valparaiso;Los Andes;true;false;;3;2;0;03-08-2017;70.39;70.39;0.0;0.0;2389.0;2389.0;6.5854672E7;2389.0;-32.809718;-70.582031;5495;7;1657;true;;
+198553;Venta Nuevo;Metropolitana;Buin;true;false;;3;3;0;19-05-2011;81.55;81.55;170.0;0.0;3160.0;3160.0;8.7107896E7;3160.0;-33.735386;-70.721762;25437;44;8695;true;;https://www.avellaneda.cl/proyectos/condominio-plaza-buin/
+262742;Venta Nuevo;Metropolitana;Colina;true;false;;4;4;0;05-08-2014;136.77;136.77;136.77;0.0;8523.0;8523.0;2.34943228E8;8523.0;-33.318767;-70.6499;51628;23;5322;true;;
+198552;Venta Nuevo;Metropolitana;Padre Hurtado;true;false;;2;2;0;19-05-2011;72.9;72.9;81.5;0.0;3474.0;3474.0;9.5763554E7;3474.0;-33.564895;-70.823484;38789;60;14594;true;;https://www.avellaneda.cl/proyectos/alto-casares/
+1070841;Venta Nuevo;Biobío;Chillán;true;false;;3;1;0;21-08-2018;50.17;50.17;50.17;0.0;1567.0;1567.0;4.3195592E7;1567.0;-36.599297;-72.116315;3101;0;596;true;;https://www.convet.cl/casas-venta/barrio-las-pataguas/
+868107;Venta Nuevo;Bernardo OHiggins ;Rancagua;true;false;;3;1;0;28-09-2017;50.17;50.17;0.0;0.0;1690.0;1690.0;4.6586185E7;1690.0;-34.163863;-70.784472;16151;24;3885;true;;
+1027104;Venta Nuevo;Valparaiso;Quillota;true;false;;3;1;0;08-06-2018;50.17;50.17;0.0;0.0;1490.0;1490.0;4.1073027E7;1490.0;-32.894511;-71.263987;8540;11;1046;true;;https://www.convet.cl/casas-venta/barrio-los-maitenes/
+446080;Venta Nuevo;Metropolitana;Buin;true;false;;3;2;0;07-10-2015;77.04;77.04;0.0;0.0;2990.0;2990.0;8.2421712E7;2990.0;-33.736401;-70.71523;16121;15;4848;true;;
+234607;Venta Nuevo;Metropolitana;Colina;true;false;;3;2;0;10-04-2014;67.8;67.8;0.0;0.0;2350.0;2350.0;6.4779606E7;2350.0;-33.213719;-70.682945;23357;28;7347;true;;
+449170;Venta Nuevo;Metropolitana;Colina;true;false;;4;4;0;15-10-2015;170.0;170.0;170.0;0.0;11259.0;11259.0;3.10363229E8;11259.0;-33.31234;-70.656902;12224;3;2319;true;;http://www.inmobiliariasecurity.cl/inmobiliaria-security/brisas-del-canto.html
+234241;Venta Nuevo;Metropolitana;Pudahuel;true;false;;3;3;0;03-04-2014;100.8;100.8;100.8;0.0;5160.0;5160.0;1.42239476E8;5160.0;-33.465056;-70.863056;29526;23;7044;true;;
+825641;Venta Nuevo;Metropolitana;Lo Barnechea;true;false;;3;3;0;06-07-2017;235.0;235.0;0.0;0.0;24332.0;24332.0;6.70730802E8;24332.0;-33.31551;-70.543571;7323;9;2573;true;;
+198778;Venta Nuevo;Araucanía;Temuco;true;false;;3;2;0;16-04-2012;76.0;76.0;121.0;0.0;2730.0;2730.0;7.5254606E7;2730.0;-38.754698;-72.642277;3996;4;551;true;;
+979084;Venta Nuevo;Metropolitana;Puente Alto;true;false;;3;3;0;30-03-2018;112.05;112.05;243.67;0.0;5334.0;5334.0;1.47035923E8;5334.0;-33.595338;-70.510753;3308;5;570;true;;http://www.iaconcagua.com/proyectos/hacienda-penon-barrio-alto-arrayan
+543251;Venta Nuevo;Metropolitana;Puente Alto;true;false;;2;1;0;31-03-2016;52.58;52.58;107.26;0.0;2240.0;2240.0;6.1747369E7;2240.0;-33.613614;-70.541473;14655;23;6192;true;;
+723430;Venta Nuevo;Metropolitana;Calera de Tango;true;false;;3;3;0;16-01-2017;197.5;197.5;5000.0;0.0;9500.0;9500.0;2.61875005E8;9500.0;-33.647479;-70.840691;5865;9;774;true;;
+198918;Venta Nuevo;Antofagasta;Antofagasta;true;false;;3;3;0;05-09-2012;75.12;75.12;135.0;0.0;4056.0;4056.0;1.11806844E8;4056.0;-23.526843;-70.402209;15182;0;1009;true;;http://www.iaconcagua.com/proyectos/dunas-de-costa-laguna
+740983;Venta Nuevo;Metropolitana;Maipú;true;false;;3;3;0;28-02-2017;80.03;80.03;123.07;0.0;3050.0;3050.0;8.4075659E7;3050.0;-33.550379;-70.764298;13454;30;5003;true;;http://www.casasbarrioeste.cl/index.html
+1115551;Venta Nuevo;Antofagasta;Antofagasta;true;false;;3;2;0;14-11-2018;54.0;54.0;79.46;0.0;3540.0;3540.0;9.7582896E7;3540.0;-23.52678;-70.402312;215;0;24;true;;http://www.iaconcagua.com/proyectos/san-pedro-casas
+198337;Venta Nuevo;Los Lagos;Puerto Montt;true;false;;3;2;0;27-12-2007;72.19;72.19;158.64;0.0;3162.0;3162.0;8.7163027E7;3162.0;-41.462454;-72.907905;19082;5;1966;true;;http://www.iaconcagua.com/proyectos/valle-volcanes-casas
+198466;Venta Nuevo;Metropolitana;Padre Hurtado;true;false;;3;3;0;30-03-2010;106.92;106.92;205.12;0.0;5432.0;5432.0;1.49737371E8;5432.0;-33.560111;-70.830076;20382;14;2873;true;;http://www.iaconcagua.com/proyectos/laguna-del-sol-barrio-laguna
+816902;Venta Nuevo;Metropolitana;Maipú;true;false;;3;3;0;15-06-2017;84.7;84.7;95.67;0.0;3980.0;3980.0;1.09711844E8;3980.0;-33.483676;-70.764013;15849;26;4193;true;;
+724367;Venta Nuevo;Los Lagos;Puerto Montt;true;false;;3;2;0;23-01-2017;64.0;64.0;70.0;0.0;1470.0;1470.0;4.0521711E7;1470.0;-41.472256;-72.947589;12112;10;1838;true;;
+405844;Venta Nuevo;Metropolitana;Padre Hurtado;true;false;;3;3;0;02-07-2015;86.66;86.66;214.91;0.0;4626.0;4626.0;1.27519344E8;4626.0;-33.560111;-70.830076;24566;3;3485;true;;http://www.iaconcagua.com/proyectos/laguna-del-sol-barrio-parque
+220411;Venta Nuevo;Metropolitana;Puente Alto;true;false;;3;3;0;25-11-2013;132.48;132.48;209.0;0.0;6402.0;6402.0;1.76476187E8;6402.0;-33.598464;-70.519202;16582;2;2130;true;;http://www.iaconcagua.com/proyectos/jardines-vizcachas-barrio-ingles
+1110505;Venta Nuevo;Metropolitana;Lo Barnechea;true;false;;4;3;0;05-11-2018;300.0;300.0;0.0;0.0;28427.0;28427.0;7.83612712E8;28427.0;-33.352708;-70.544511;693;0;124;true;;http://www.lomalacruz.cl/
+474560;Venta Nuevo;Metropolitana;Colina;true;false;;4;5;0;25-11-2015;218.55;218.55;451.82;0.0;10990.0;10990.0;3.02948032E8;10990.0;-33.325985;-70.630116;4932;5;913;true;;
+198482;Venta Nuevo;Metropolitana;Peñaflor;true;false;;3;3;0;08-09-2010;76.0;76.0;81.0;0.0;2990.0;2990.0;8.2421712E7;2990.0;-33.60182;-70.856341;10881;23;2331;true;;http://www.pocuro.cl/proyectos/casas/valles-de-penaflor
+249712;Venta Nuevo;Maule;Talca;true;false;;4;2;0;10-04-2013;84.0;84.0;118.0;0.0;2080.0;2080.0;5.7336843E7;2080.0;-35.451301;-71.676586;6488;8;939;true;;
+198391;Venta Nuevo;Biobío;Concepción;true;false;;3;3;0;05-03-2008;69.39;69.39;130.0;0.0;2799.0;2799.0;7.7156646E7;2799.0;-36.792537;-73.036407;24956;8;4168;true;;http://www.iaconcagua.com/proyectos/condominio-torreones
+1107010;Venta Nuevo;Biobío;San Carlos;true;false;;4;1;0;26-10-2018;61.44;61.44;61.44;0.0;1800.0;1800.0;4.9618422E7;1800.0;-36.433378;-71.966578;1265;0;214;true;;http://www.pacal.cl/proyectos/bosques-del-algarrobal/
+1147048;Venta Nuevo;Metropolitana;La Florida;true;false;;3;3;0;27-12-2018;129.0;129.0;310.9;0.0;7835.0;7835.0;2.15977964E8;7835.0;-33.511291;-70.52871;133;0;21;true;;
+987227;Venta Nuevo;Bernardo OHiggins ;Machalí;true;false;;4;4;0;13-04-2018;134.42;134.42;295.93;0.0;4490.0;4490.0;1.23770397E8;4490.0;-34.172363;-70.653156;5449;1;795;true;;http://www.xn--lagotoal-i3a.cl/index.php/ubicacion
+199080;Venta Nuevo;Metropolitana;Buin;true;false;;3;3;0;16-04-2013;80.88;80.88;188.8;0.0;3290.0;3290.0;9.0691449E7;3290.0;-33.749471;-70.740379;23706;43;6429;true;;
+198311;Venta Nuevo;Coquimbo;La Serena;true;false;;3;2;0;01-11-2007;67.96;67.96;135.72;0.0;2990.0;2990.0;8.2421712E7;2990.0;-29.90164;-71.262337;22326;7;4304;true;;http://www.iaconcagua.com/proyectos/santa-margarita-del-mar
+950951;Venta Nuevo;Metropolitana;Buin;true;false;;4;3;0;12-02-2018;140.0;140.0;630.0;0.0;7900.0;7900.0;2.17769741E8;7900.0;-33.736702;-70.686555;6106;7;1129;true;;
+199066;Venta Nuevo;Valparaiso;Valparaíso;true;false;;3;2;0;11-04-2013;80.52;80.52;161.85;0.0;3590.0;3590.0;9.8961186E7;3590.0;-33.124058;-71.571984;14635;6;3021;true;;http://www.iaconcagua.com/proyectos/nueva-fundadores-barrio-san-pablo
+199478;Venta Nuevo;Metropolitana;Lampa;true;false;;3;1;0;26-06-2013;54.0;54.0;80.0;0.0;1652.0;1652.0;4.5538685E7;1652.0;-33.242564;-70.819588;32671;30;6954;true;;
+832011;Venta Nuevo;Coquimbo;La Serena;true;false;;3;2;0;18-07-2017;71.56;71.56;197.27;0.0;3350.0;3350.0;9.2345396E7;3350.0;-29.922669;-71.228958;10349;6;1861;true;;
+865421;Venta Nuevo;Metropolitana;Puente Alto;true;false;;2;1;0;20-09-2017;48.0;48.0;48.0;0.0;2000.0;2000.0;5.513158E7;2000.0;-33.615231;-70.602185;29812;49;9889;true;;
+439405;Venta Nuevo;Metropolitana;Colina;true;false;;3;3;0;23-09-2015;116.76;116.76;336.2;0.0;6290.0;6290.0;1.73388819E8;6290.0;-33.216716;-70.669942;15588;12;3764;true;;
+1067227;Venta Nuevo;Valparaiso;Los Andes;true;false;;3;3;0;14-08-2018;68.84;68.84;68.84;0.0;2200.0;2200.0;6.0644738E7;2200.0;-32.854694;-70.602556;1444;4;137;true;;http://www.pacal.cl/proyectos/aires-de-aconcagua/
+856539;Venta Nuevo;Metropolitana;Padre Hurtado;true;false;;2;1;0;28-08-2017;48.0;48.0;48.0;0.0;1780.0;1780.0;4.9067106E7;1780.0;-33.569324;-70.815626;28299;64;8610;true;;
+856979;Venta Nuevo;Bernardo OHiggins ;San Francisco de Mostazal;true;false;;3;1;0;30-08-2017;60.0;60.0;153.0;0.0;1958.0;1958.0;5.3973816E7;1958.0;-33.974693;-70.70841;8724;12;1721;true;;http://www.bosan.cl
+198382;Venta Nuevo;Coquimbo;Coquimbo;true;false;;3;3;0;23-01-2008;80.19;80.19;86.86;0.0;3010.0;3010.0;8.2973027E7;3010.0;-29.97856;-71.252931;7986;4;828;true;;
+756024;Venta Nuevo;Metropolitana;Puente Alto;true;false;;3;3;0;25-03-2017;101.24;101.24;172.34;0.0;4695.0;4695.0;1.29421384E8;4695.0;-33.560969;-70.549705;6149;9;1365;true;;http://www.iaconcagua.com/proyectos/tacora
+199026;Venta Nuevo;Valparaiso;Valparaíso;true;false;;3;3;0;06-03-2013;108.59;108.59;256.96;0.0;5878.0;5878.0;1.62031713E8;5878.0;-33.131514;-71.565542;6379;3;1567;true;;http://www.iaconcagua.com/proyectos/haciendacurauma-condominio-alerce
+1068425;Venta Nuevo;Los Lagos;Puerto Montt;true;false;;3;1;0;16-08-2018;57.84;57.84;57.84;0.0;2050.0;2050.0;5.6509869E7;2050.0;-41.486859;-72.997352;2326;1;324;true;;http://www.pacal.cl/proyectos/puerta-bosquemar/
+264328;Venta Nuevo;Biobío;San Pedro de la Paz;true;false;;3;2;0;12-08-2014;61.97;61.97;61.97;0.0;1701.0;1701.0;4.6889408E7;1701.0;-36.862581;-73.1407;12163;9;1342;true;;
+517791;Venta Nuevo;Metropolitana;Colina;true;false;;3;2;0;04-03-2016;83.19;83.19;264.3;0.0;4693.0;4693.0;1.29366252E8;4693.0;-33.215469;-70.672324;14948;21;4657;true;;http://www.iaconcagua.com/proyectos/nueva-etapa-ayres-chicureo
+727964;Venta Nuevo;Biobío;Los Ángeles;true;false;;3;3;0;25-01-2017;76.0;76.0;76.0;0.0;2450.0;2450.0;6.7536185E7;2450.0;-37.443259;-72.329313;4539;3;636;true;;
+823440;Venta Nuevo;Metropolitana;Peñalolén;true;false;;3;3;0;04-07-2017;122.4;122.4;134.1;0.0;8431.0;8431.0;2.32407175E8;8431.0;-33.496632;-70.558464;7811;9;1822;true;;
+1017048;Venta Nuevo;Metropolitana;Colina;true;false;;3;3;0;24-05-2018;122.0;122.0;360.0;0.0;6595.0;6595.0;1.81796385E8;6595.0;-33.215657;-70.658413;3587;1;770;true;;www.terracorp.cl
+250545;Venta Nuevo;Metropolitana;La Florida;true;false;;3;3;0;22-01-2008;105.9;105.9;317.0;0.0;6890.0;6890.0;1.89928293E8;6890.0;-33.51315;-70.529373;15734;22;3893;true;;http://www.isinergia.cl/casas/7/alto-macul
+1067177;Venta Nuevo;Bernardo OHiggins ;Rengo;true;false;;3;1;0;14-08-2018;54.54;54.54;54.54;0.0;1940.0;1940.0;5.3477632E7;1940.0;-34.398506;-70.859846;1057;0;146;true;;http://www.pacal.cl/proyectos/altos-del-valle/
+1066369;Venta Nuevo;Bernardo OHiggins ;Santa Cruz;true;false;;3;2;0;13-08-2018;66.84;66.84;66.84;0.0;2000.0;2000.0;5.513158E7;2000.0;-34.649426;-71.358009;1410;3;178;true;;http://www.pacal.cl/proyectos/lomas-de-colchagua/
+467889;Venta Nuevo;Metropolitana;Colina;true;false;;4;3;0;28-07-2015;167.0;167.0;463.58;0.0;8075.0;8075.0;2.22593754E8;8075.0;-33.219042;-70.663835;8925;7;1521;true;;
+734903;Venta Nuevo;Metropolitana;Maipú;true;false;;4;3;0;10-02-2017;138.81;138.81;0.0;0.0;9990.0;9990.0;2.75382242E8;9990.0;-33.561435;-70.761971;27871;13;3345;true;;
+216941;Venta Nuevo;Antofagasta;Antofagasta;true;false;;3;1;0;26-12-2007;54.0;54.0;71.56;0.0;3390.0;3390.0;9.3448028E7;3390.0;-23.53214;-70.393656;19825;1;1979;true;;http://www.iaconcagua.com/proyectos/san-marcos-casas
+1092572;Venta Nuevo;Metropolitana;Las Condes;true;false;;3;4;0;03-10-2018;179.2;179.2;207.5;0.0;17300.0;17300.0;4.76888167E8;17300.0;-33.418801;-70.520119;1412;2;358;true;;http://elremansodelascondes.cl/
+853744;Venta Nuevo;Araucanía;Pucón;true;false;;3;3;0;24-08-2017;75.0;75.0;75.0;0.0;2990.0;2990.0;8.2421712E7;2990.0;-39.279318;-71.955833;2479;4;284;true;;
+1106896;Venta Nuevo;Bernardo OHiggins ;Machalí;true;false;;3;3;0;26-10-2018;68.42;68.42;68.42;0.0;2050.0;2050.0;5.6509869E7;2050.0;-34.173091;-70.644833;649;3;200;true;;http://www.pacal.cl/proyectos/las-tinajas-de-machali/
+199449;Venta Nuevo;Metropolitana;Colina;true;false;;3;3;0;16-04-2012;112.05;112.05;231.44;0.0;5234.0;5234.0;1.44279344E8;5234.0;-33.227488;-70.683374;17036;24;5029;true;;http://www.iaconcagua.com/proyectos/borde-blanco
+1068584;Venta Nuevo;Bernardo OHiggins ;Pichilemu;true;false;;3;1;0;16-08-2018;58.81;58.81;58.81;0.0;1750.0;1750.0;4.8240132E7;1750.0;-34.401458;-72.002663;2352;3;435;true;;http://www.pacal.cl/proyectos/altos-pucalan-ii/
+889623;Venta Nuevo;Metropolitana;Colina;true;false;;4;5;0;27-10-2017;177.0;177.0;469.55;0.0;11829.0;11829.0;3.26075729E8;11829.0;-33.251356;-70.6973889;2339;2;271;true;;http://www.iaconcagua.com/proyectos/terrazas-chicureo-nueva-etapa
+516021;Venta Nuevo;Metropolitana;Colina;true;false;;3;3;0;26-02-2016;127.83;127.83;350.9;0.0;8210.0;8210.0;2.26315135E8;8210.0;-33.264298;-70.632867;6245;15;1679;true;;http://www.isinergia.cl/casas/11/san-anselmo
+1107099;Venta Nuevo;Los Ríos;Valdivia;true;false;;3;1;0;26-10-2018;61.37;61.37;61.37;0.0;2050.0;2050.0;5.6509869E7;2050.0;-39.851973;-73.247874;677;2;82;true;;http://www.pacal.cl/proyectos/prados-de-angachilla/
+995207;Venta Nuevo;Metropolitana;Lo Barnechea;true;false;;4;4;0;23-04-2018;211.6;211.6;305.7;0.0;15500.0;15500.0;4.27269745E8;15500.0;-33.328621;-70.509891;4358;2;722;true;;http://www.casaslacumbre.cl/
+1068393;Venta Nuevo;Biobío;Chillán;true;false;;3;1;0;16-08-2018;56.44;56.44;56.44;0.0;1890.0;1890.0;5.2099343E7;1890.0;-36.592451;-72.120808;1215;3;154;true;;http://www.pacal.cl/proyectos/bosques-del-arrayan-2/
+199091;Venta Nuevo;Coquimbo;Coquimbo;true;false;;3;1;0;25-04-2013;51.59;51.59;126.35;0.0;1790.0;1790.0;4.9342764E7;1790.0;-29.970572;-71.249017;29286;22;5861;true;;
+856753;Venta Nuevo;Metropolitana;La Florida;true;false;;3;3;0;29-08-2017;92.81;92.81;92.81;0.0;4260.0;4260.0;1.17430265E8;4260.0;-33.517869;-70.563742;12494;26;3480;true;;
+273171;Venta Nuevo;Metropolitana;Lampa;true;false;;3;2;0;26-09-2014;85.0;85.0;229.0;0.0;3216.0;3216.0;8.865158E7;3216.0;-33.176561;-70.790006;55409;23;7595;true;;
+543235;Venta Nuevo;Metropolitana;Lo Barnechea;true;false;;4;4;0;31-03-2016;226.0;226.0;226.0;0.0;18547.0;18547.0;5.11262707E8;18547.0;-33.321635;-70.539316;1136;1;161;true;;http://www.loslitres.cl/
+198343;Venta Nuevo;Biobío;San Pedro de la Paz;true;false;;3;2;0;27-12-2007;59.09;59.09;130.5;0.0;1739.0;1739.0;4.7936908E7;1739.0;-36.882246;-73.14369;27268;18;5838;true;;
+250630;Venta Nuevo;Coquimbo;La Serena;true;false;;3;1;0;07-01-2008;47.7;47.7;110.0;0.0;1500.0;1500.0;4.1348685E7;1500.0;-29.878104;-71.270939;14631;24;3075;true;;
+198954;Venta Nuevo;Metropolitana;Colina;true;false;;3;2;0;23-10-2012;91.42;91.42;341.6;0.0;4389.0;4389.0;1.20986252E8;4389.0;-33.2174;-70.667362;20831;35;6096;true;;
+522036;Venta Nuevo;Metropolitana;Lo Barnechea;true;false;;3;3;0;10-03-2016;139.98;139.98;371.33;0.0;11828.0;11828.0;3.26048164E8;11828.0;-33.330837;-70.517948;11078;19;2999;true;;
+198244;Venta Nuevo;Metropolitana;San Bernardo;true;false;;3;2;0;01-11-2007;50.0;50.0;50.0;0.0;1805.0;1805.0;4.975625E7;1805.0;-33.614941;-70.708716;59628;103;9756;true;;http://www.ilossilos.cl/proyectos/valle-escondido/
+198851;Venta Nuevo;Metropolitana;Pudahuel;true;false;;3;3;0;14-06-2012;91.42;91.42;150.65;0.0;3847.0;3847.0;1.06045594E8;3847.0;-33.462832;-70.857466;27693;22;5461;true;;
+921873;Venta Nuevo;Metropolitana;Colina;true;false;;3;3;0;15-12-2017;120.66;120.66;350.03;0.0;6480.0;6480.0;1.78626319E8;6480.0;-33.210543;-70.725942;4698;3;1242;true;;http://www.vallenogales.cl/
+198347;Venta Nuevo;Los Lagos;Puerto Montt;true;false;;3;2;0;27-12-2007;54.2;54.2;118.8;0.0;1802.0;1802.0;4.9673553E7;1802.0;-41.461148;-72.904447;26040;15;3655;true;;
+198916;Venta Nuevo;Metropolitana;Buin;true;false;;3;2;0;04-09-2012;0.0;0.0;56.0;0.0;2745.0;2745.0;7.5668093E7;2745.0;-33.744504;-70.746031;19395;17;4186;true;;
+869933;Venta Nuevo;Metropolitana;Buin;true;false;;3;1;0;05-10-2017;48.0;48.0;48.0;0.0;1400.0;1400.0;3.8592106E7;1400.0;-33.744036;-70.746176;142518;138;16842;true;;
+199007;Venta Nuevo;Metropolitana;Buin;true;false;;3;2;0;24-01-2013;65.0;65.0;189.0;0.0;3070.0;3070.0;8.4626975E7;3070.0;-33.735904;-70.71805;12679;16;3147;true;;
+869899;Venta Nuevo;Metropolitana;Lampa;true;false;;3;1;0;05-10-2017;48.0;48.0;99.5;0.0;1400.0;1400.0;3.8592106E7;1400.0;-33.32713;-70.769009;47556;73;10887;true;;
+1083788;Venta Nuevo;Tarapacá;Alto Hospicio;true;false;;3;2;0;13-09-2018;63.09;63.09;89.33;0.0;2683.0;2683.0;7.3959014E7;2683.0;-20.300814;-70.110274;1443;0;107;true;;
+286103;Venta Nuevo;Metropolitana;Buin;true;false;;3;3;0;07-10-2014;71.0;71.0;128.0;0.0;2510.0;2510.0;6.9190132E7;2510.0;-33.745034;-70.748374;29304;58;6802;true;;
+867790;Venta Nuevo;Metropolitana;Buin;true;false;;3;2;0;27-09-2017;60.0;60.0;60.0;0.0;2140.0;2140.0;5.899079E7;2140.0;-33.743783;-70.744142;8735;28;2799;true;;http://www.ilossilos.cl/proyectos/haras-buin-casas/
+693913;Venta Nuevo;Coquimbo;Coquimbo;true;false;;3;1;0;25-11-2016;50.78;50.78;50.78;0.0;1941.0;1941.0;5.3505198E7;1941.0;-29.989143;-71.324839;14472;13;4031;true;;
+1117037;Venta Nuevo;Biobío;San Pedro de la Paz;true;false;;3;1;0;20-11-2018;48.0;48.0;92.0;0.0;1400.0;1400.0;3.8592106E7;1400.0;-36.885564;-73.149571;670;1;154;true;;http://3l.cl/inmobiliaria/horizontesanpedro/
+734945;Venta Nuevo;Coquimbo;Coquimbo;true;false;;3;1;0;13-02-2017;52.0;52.0;52.0;0.0;1920.0;1920.0;5.2926316E7;1920.0;-29.993724;-71.321269;11775;6;1484;true;;
+198294;Venta Nuevo;Metropolitana;Colina;true;false;;3;3;0;01-11-2007;99.3;99.3;139.0;0.0;5801.0;5801.0;1.59909147E8;5801.0;-33.307567;-70.672903;32389;23;2842;true;;
+797506;Venta Nuevo;Metropolitana;Buin;true;false;;3;1;0;18-05-2017;52.0;52.0;52.0;0.0;2200.0;2200.0;6.0644738E7;2200.0;-33.734559;-70.748673;14073;30;4006;true;;
+198371;Venta Nuevo;Coquimbo;Coquimbo;true;false;;3;3;0;07-01-2008;97.0;97.0;97.0;0.0;5625.0;5625.0;1.55057568E8;5625.0;-29.963405;-71.307799;11025;6;841;true;;http://www.xn--solardepeuelas-ynb.cl/
+199501;Venta Nuevo;Biobío;Los Ángeles;true;false;;4;3;0;09-07-2013;101.0;101.0;184.0;0.0;2799.0;2799.0;7.7156646E7;2799.0;-37.450839;-72.346333;18314;3;1700;true;;
+1098127;Venta Nuevo;Coquimbo;La Serena;true;false;;3;2;0;11-10-2018;64.37;64.37;64.37;0.0;2800.0;2800.0;7.7184212E7;2800.0;-29.920943;-71.204185;2271;2;455;true;;
+467891;Venta Nuevo;Metropolitana;Peñalolén;true;false;;3;3;0;24-07-2015;115.42;115.42;170.0;0.0;7100.0;7100.0;1.95717109E8;7100.0;-33.494866;-70.575678;31183;23;4617;true;;
+518724;Venta Nuevo;Metropolitana;Maipú;true;false;;3;2;0;07-03-2016;66.0;66.0;66.0;0.0;2624.0;2624.0;7.2332632E7;2624.0;-33.545601;-70.792886;23428;34;9261;true;;http://www.ilossilos.cl/proyectos-rm/las-catalpas-ii/
+199439;Venta Nuevo;Los Lagos;Puerto Varas;true;false;;2;1;0;02-01-2008;44.74;44.74;130.0;0.0;1746.0;1746.0;4.8129869E7;1746.0;-41.338911;-72.954648;16995;21;3196;true;;
+856601;Venta Nuevo;Metropolitana;Peñalolén;true;false;;3;3;0;28-08-2017;115.42;115.42;185.0;0.0;7950.0;7950.0;2.1914803E8;7950.0;-33.496977;-70.575076;2727;3;787;true;;
+360671;Venta Nuevo;Metropolitana;Melipilla;true;false;;3;2;0;20-03-2015;78.68;78.68;83.0;0.0;2447.0;2447.0;6.7453488E7;2447.0;-33.678061;-71.17713;27097;17;3503;true;;
+198239;Venta Nuevo;Metropolitana;Lampa;true;false;;3;3;0;01-11-2007;86.8;86.8;171.75;0.0;3064.0;3064.0;8.446158E7;3064.0;-33.324764;-70.747296;29530;32;6027;true;;
+198240;Venta Nuevo;Metropolitana;Maipú;true;false;;3;2;0;01-11-2007;56.0;56.0;56.0;0.0;2200.0;2200.0;6.0644738E7;2200.0;-33.543643;-70.79063;20635;49;7028;true;;http://www.ilossilos.cl/proyectos/bosques-del-sur-casas-maipu/
+198763;Venta Nuevo;Coquimbo;Coquimbo;true;false;;3;1;0;04-04-2012;53.63;53.63;123.08;0.0;2322.0;2322.0;6.4007764E7;2322.0;-29.978914;-71.259985;18421;8;2768;true;;
+264329;Venta Nuevo;Metropolitana;Padre Hurtado;true;false;;3;3;0;12-08-2014;81.0;81.0;172.0;0.0;4010.0;4010.0;1.10538817E8;4010.0;-33.561405;-70.822549;13835;7;2794;true;;
+720351;Venta Nuevo;Metropolitana;La Reina;true;false;;4;5;0;09-01-2017;240.0;240.0;476.0;0.0;17800.0;17800.0;4.90671062E8;17800.0;-33.434129;-70.52526;7823;10;1464;true;;
+721586;Venta Nuevo;Metropolitana;Buin;true;false;;3;2;0;11-01-2017;72.59;72.59;72.59;0.0;3192.0;3192.0;8.7990001E7;3192.0;-33.744408;-70.750236;19764;13;6459;true;;
+729534;Venta Nuevo;Metropolitana;Buin;true;false;;3;3;0;01-02-2017;99.6;99.6;180.0;0.0;4246.0;4246.0;1.17044344E8;4246.0;-33.747288;-70.739753;5080;3;1234;true;;
+198541;Venta Nuevo;Biobío;Coronel;true;false;;3;2;0;06-04-2011;87.0;87.0;166.0;0.0;1800.0;1800.0;4.9618422E7;1800.0;-36.972098;-73.148354;7727;5;783;true;;
+361881;Venta Nuevo;Maule;Talca;true;false;;3;2;0;24-03-2015;107.0;107.0;107.0;0.0;4719.0;4719.0;1.30082963E8;4719.0;-35.430752;-71.614039;31114;7;1482;true;;
+869916;Venta Nuevo;Valparaiso;Los Andes;true;false;;3;1;0;05-10-2017;48.0;48.0;89.3;0.0;1400.0;1400.0;3.8592106E7;1400.0;-32.826802;-70.597577;7088;9;1602;true;;
+198298;Venta Nuevo;Metropolitana;Puente Alto;true;false;;3;2;0;01-11-2007;68.33;68.33;163.32;0.0;2983.0;2983.0;8.2228751E7;2983.0;-33.594685;-70.536944;39970;61;5537;true;;
+198613;Venta Nuevo;Metropolitana;Buin;true;false;;3;3;0;23-08-2011;78.0;78.0;175.0;0.0;3280.0;3280.0;9.0415791E7;3280.0;-33.746717;-70.73827;15936;19;3112;true;;
+198502;Venta Nuevo;Bernardo OHiggins ;Machalí;true;false;;3;3;0;04-11-2010;81.0;81.0;168.0;0.0;2790.0;2790.0;7.6908554E7;2790.0;-34.18248;-70.687098;4681;11;725;true;;
+198696;Venta Nuevo;Coquimbo;La Serena;true;false;;4;2;0;10-01-2012;120.0;120.0;248.0;0.0;4800.0;4800.0;1.32315792E8;4800.0;-29.935533;-71.253054;13264;6;1271;true;;
+522550;Venta Nuevo;Metropolitana;Buin;true;false;;3;2;0;15-03-2016;56.78;56.78;160.1;0.0;2460.0;2460.0;6.7811843E7;2460.0;-33.7357;-70.717527;30283;30;4373;true;;
+804585;Venta Nuevo;Metropolitana;Colina;true;false;;3;3;0;29-05-2017;131.0;131.0;131.0;0.0;8100.0;8100.0;2.23282899E8;8100.0;-33.3164;-70.651966;12009;14;2385;true;;
+916959;Venta Nuevo;Metropolitana;Puente Alto;true;false;;3;3;0;05-12-2017;75.4;75.4;75.4;0.0;2865.0;2865.0;7.8975988E7;2865.0;-33.602146;-70.5903;3089;5;873;true;;http://www.cbiobio.cl/
+1150373;Venta Nuevo;Bernardo OHiggins ;Machalí;true;false;;3;3;0;04-01-2019;76.0;76.0;76.0;0.0;3135.0;3135.0;8.6418751E7;3135.0;-34.180458;-70.688779;16;0;0;true;;https://py.cl/proyectos/machali/casas/vi-machali-el-remanso-de-machali-etapa-ii/
+894752;Venta Nuevo;Metropolitana;Puente Alto;true;false;;3;1;0;03-11-2017;56.11;56.11;91.2;0.0;2636.0;2636.0;7.2663422E7;2636.0;-33.602355;-70.544012;10831;37;4019;true;;
+198484;Venta Nuevo;Metropolitana;San Bernardo;true;false;;3;3;0;08-09-2010;72.0;72.0;72.0;0.0;3135.0;3135.0;8.6418751E7;3135.0;-33.640133;-70.689511;15636;21;3104;true;;
+1149885;Venta Nuevo;Valparaiso;Los Andes;true;false;;3;1;0;03-01-2019;52.0;52.0;52.0;0.0;1670.0;1670.0;4.6034869E7;1670.0;-32.820865;-70.609518;19;0;0;true;;https://py.cl/proyectos/los-andes/subsidio/v-los-andes-senderos-de-los-andes/
+1012189;Venta Nuevo;Metropolitana;Pudahuel;true;false;;3;3;0;17-05-2018;91.42;91.42;204.0;0.0;4002.0;4002.0;1.10318291E8;4002.0;-33.455508;-70.894152;3376;11;1273;true;;http://www.enaco.cl/donde/mt-region/praderas_de_lo_aguirre/
+222909;Venta Nuevo;Araucanía;Padre las Casas;true;false;;3;2;0;11-12-2013;71.26;71.26;107.0;0.0;2060.0;2060.0;5.6785527E7;2060.0;-38.772354;-72.59757;6024;0;409;true;;
+198668;Venta Nuevo;Metropolitana;La Florida;true;false;;3;3;0;09-11-2011;113.46;113.46;240.46;0.0;5642.0;5642.0;1.55526187E8;5642.0;-33.513982;-70.529776;31028;61;5185;true;;
+693933;Venta Nuevo;Los Lagos;Puerto Montt;true;false;;3;1;0;25-11-2016;55.65;55.65;55.65;0.0;2300.0;2300.0;6.3401317E7;2300.0;-41.444105;-72.936689;15994;5;2679;true;;
+198852;Venta Nuevo;Metropolitana;Colina;true;false;;3;3;0;15-06-2012;94.0;94.0;337.0;0.0;5353.0;5353.0;1.47559673E8;5353.0;-33.215784;-70.67374;22253;17;3795;true;;
+734884;Venta Nuevo;Metropolitana;Colina;true;false;;3;1;0;13-02-2017;52.0;52.0;52.0;0.0;1980.0;1980.0;5.4580264E7;1980.0;-33.193032;-70.678827;14804;9;2667;true;;
+236066;Venta Nuevo;Metropolitana;Lo Barnechea;true;false;;4;3;0;21-04-2014;205.6;205.6;577.0;0.0;18704.0;18704.0;5.15590536E8;18704.0;-33.336535;-70.520491;15288;9;1550;true;;
+198884;Venta Nuevo;Metropolitana;Lampa;true;false;;3;3;0;16-08-2012;82.93;82.93;150.0;0.0;3420.0;3420.0;9.4275001E7;3420.0;-33.302751;-70.737436;26809;33;5503;true;;
+1047172;Venta Nuevo;Metropolitana;Pudahuel;true;false;;3;3;0;12-07-2018;112.0;112.0;407.0;0.0;5934.0;5934.0;1.63575397E8;5934.0;-33.446624;-70.84503;3019;2;659;true;;http://www.cdelosvalles.cl/#slider
+1083915;Venta Nuevo;Valparaiso;Calle Larga;true;false;;3;1;0;13-09-2018;57.66;57.66;90.27;0.0;1480.0;1480.0;4.0797369E7;1480.0;-32.863444;-70.626028;2956;0;457;true;;
+1149905;Venta Nuevo;Valparaiso;San Felipe;true;false;;3;1;0;03-01-2019;52.0;52.0;52.0;0.0;1990.0;1990.0;5.4855922E7;1990.0;-32.744466;-70.703303;15;0;0;true;;https://py.cl/proyectos/san-felipe/subsidio/v-san-felipe-el-almendral-ii/
+226997;Venta Nuevo;Metropolitana;Lo Barnechea;true;false;;3;3;0;01-11-2007;136.53;136.53;256.85;0.0;10876.0;10876.0;2.99805532E8;10876.0;-33.326158;-70.504167;20138;21;3574;true;;
+198428;Venta Nuevo;Biobío;Coronel;true;false;;3;2;0;30-03-2009;68.0;68.0;68.0;0.0;1510.0;1510.0;4.1624342E7;1510.0;-36.994463;-73.152222;10367;3;638;true;;
+231842;Venta Nuevo;Metropolitana;San Bernardo;true;false;;3;2;0;07-03-2014;67.0;67.0;110.0;0.0;2710.0;2710.0;7.470329E7;2710.0;-33.616293;-70.682218;11786;12;2086;true;;
+612736;Venta Nuevo;Maule;Talca;true;false;;3;3;0;16-08-2016;80.0;80.0;80.0;0.0;2980.0;2980.0;8.2146054E7;2980.0;-35.429433;-71.672583;33531;9;1490;true;;
+198346;Venta Nuevo;Bernardo OHiggins ;Machalí;true;false;;3;2;0;27-12-2007;75.12;75.12;142.42;0.0;2482.0;2482.0;6.841829E7;2482.0;-34.171159;-70.682252;13331;13;2375;true;;
+1148905;Venta Nuevo;Atacama;Copiapó;true;false;;3;2;0;02-01-2019;90.0;90.0;90.0;0.0;5550.0;5550.0;1.52990134E8;5550.0;-27.097679;-70.861721;15;0;0;true;;
+1149824;Venta Nuevo;Atacama;Copiapó;true;false;;3;2;0;03-01-2019;63.0;63.0;63.0;0.0;3920.0;3920.0;1.08057896E8;3920.0;-27.345647;-70.352747;20;0;0;true;;https://py.cl/proyectos/copiapo/casas/iii-copiapo-nueva-colina/
+441210;Venta Nuevo;Biobío;Concepción;true;false;;3;2;0;28-09-2015;63.0;63.0;114.0;0.0;2048.0;2048.0;5.6454737E7;2048.0;-36.826217;-73.006119;9728;18;1642;true;;
+800621;Venta Nuevo;Metropolitana;Las Condes;true;false;;4;4;0;23-05-2017;140.0;140.0;140.0;0.0;12490.0;12490.0;3.44296717E8;12490.0;-33.424058;-70.561035;1885;13;286;true;;
+198246;Venta Nuevo;Metropolitana;Puente Alto;true;false;;3;2;0;01-11-2007;57.0;57.0;88.0;0.0;2005.0;2005.0;5.5269408E7;2005.0;-33.595745;-70.580648;38001;87;15633;true;;
+1139440;Venta Nuevo;Araucanía;Temuco;true;false;;3;3;0;13-12-2018;140.0;140.0;224.0;0.0;6311.0;6311.0;1.739677E8;6311.0;-38.731754;-72.644548;21;0;0;true;;https://www.constructorasw.cl/puertadelsol
+1073397;Venta Nuevo;Maule;Talca;true;false;;3;2;0;24-08-2018;79.0;79.0;85.0;0.0;1700.0;1700.0;4.6861843E7;1700.0;-35.399566;-71.62961;1174;0;105;true;;http://www.malpo.cl/proyecto/dona-josefa/#close
+1006358;Venta Nuevo;Metropolitana;Las Condes;true;false;;4;3;0;08-05-2018;140.0;140.0;145.0;0.0;14990.0;14990.0;4.13211192E8;14990.0;-33.4208634;-70.5684173;1750;9;218;true;;
+1139371;Venta Nuevo;Araucanía;Temuco;true;false;;3;3;0;13-12-2018;110.07;110.07;163.0;0.0;5105.0;5105.0;1.40723357E8;5105.0;-38.73348;-72.647376;19;0;0;true;;www.socovesa.cl/proyectos/alto-mirasur/
+1139523;Venta Nuevo;Araucanía;Padre las Casas;true;false;;3;2;0;13-12-2018;71.26;71.26;107.0;0.0;2060.0;2060.0;5.6785527E7;2060.0;-38.772069;-72.597318;58;0;2;true;;www.pocuro.cl/proyectos/casas/lomas-de-maquehue
+916830;Venta Nuevo;Metropolitana;Peñalolén;true;false;;4;4;0;05-12-2017;225.37;225.37;117.57;0.0;11164.0;11164.0;3.07744479E8;11164.0;-33.497518;-70.536276;956;6;227;true;;
+980379;Venta Nuevo;Metropolitana;Ñuñoa;true;false;;3;3;0;02-04-2018;113.36;113.36;171.0;0.0;8689.0;8689.0;2.39519149E8;8689.0;-33.4575954;-70.5920801;1740;9;486;true;;http://www.townhouse.cl/proyecto/42
+893395;Venta Nuevo;Metropolitana;Peñalolén;true;false;;4;4;0;02-11-2017;160.0;160.0;234.0;0.0;9880.0;9880.0;2.72350005E8;9880.0;-33.496822;-70.536001;4202;7;1197;true;;
+752208;Venta Nuevo;Metropolitana;Peñalolén;true;false;;3;3;0;10-05-2016;140.0;140.0;412.24;0.0;9950.0;9950.0;2.7427961E8;9950.0;-33.496127;-70.533249;2183;5;570;true;;
+839803;Venta Nuevo;Metropolitana;La Florida;true;false;;3;3;0;02-08-2017;81.13;81.13;99.54;0.0;4543.0;4543.0;1.25231383E8;4543.0;-33.519252;-70.564901;2286;6;556;true;;
+287335;Venta Nuevo;Araucanía;Temuco;true;false;;3;1;0;09-10-2014;47.0;47.0;47.0;0.0;1000.0;1000.0;2.756579E7;1000.0;-38.763775;-72.746342;11234;11;1638;true;;
+506878;Venta Nuevo;Metropolitana;La Florida;true;false;;3;3;0;28-01-2016;94.0;94.0;90.0;0.0;4500.0;4500.0;1.24046055E8;4500.0;-33.519607;-70.567711;9067;32;2547;true;;
+496312;Venta Nuevo;Biobío;Los Ángeles;true;false;;3;2;0;11-01-2016;77.0;77.0;77.0;0.0;2095.0;2095.0;5.775033E7;2095.0;-37.445016;-72.332311;2977;1;639;true;;
+199142;Venta Nuevo;Valparaiso;Viña del Mar;true;false;;3;2;0;23-05-2013;110.33;110.33;289.0;0.0;5190.0;5190.0;1.4306645E8;5190.0;-32.978023;-71.527653;9049;14;1579;true;;
+1069210;Venta Nuevo;Metropolitana;Colina;true;false;;2;1;0;17-08-2018;49.36;49.36;49.36;0.0;1400.0;1400.0;3.8592106E7;1400.0;-33.189129;-70.674108;2866;8;681;true;;https://www.conavicoop.cl/proyectos/33/condominio-compositora-isidora-zegers
+496335;Venta Nuevo;Biobío;Los Ángeles;true;false;;3;2;0;11-01-2016;77.0;77.0;77.0;0.0;2070.0;2070.0;5.7061185E7;2070.0;-37.445026;-72.332296;2812;2;506;true;;
+563787;Venta Nuevo;Los Lagos;Puerto Montt;true;false;;3;1;0;03-05-2016;54.0;54.0;54.0;0.0;1730.0;1730.0;4.7688816E7;1730.0;-41.480034;-72.969055;3366;4;449;true;;
+474791;Venta Nuevo;Metropolitana;Lampa;true;false;;3;1;0;25-11-2015;52.0;52.0;52.0;0.0;1450.0;1450.0;3.9970395E7;1450.0;-33.304402;-70.854389;17662;37;4299;true;;
+1069218;Venta Nuevo;Metropolitana;Lampa;true;false;;2;2;0;17-08-2018;55.0;55.0;55.0;0.0;1400.0;1400.0;3.8592106E7;1400.0;-33.326234;-70.765432;3457;20;677;true;;http://www.vallenortelampa.cl/index.html
+1003127;Venta Nuevo;Metropolitana;Huechuraba;true;false;;3;3;0;03-05-2018;81.11;81.11;124.03;0.0;4890.0;4890.0;1.34796713E8;4890.0;-33.3549484;-70.6856703;1158;2;335;true;;http://actual.cl/proyecto/condominio-palermo/
+1094097;Venta Nuevo;Metropolitana;Padre Hurtado;true;false;;3;1;0;05-10-2018;46.56;46.56;46.56;0.0;1570.0;1570.0;4.327829E7;1570.0;-33.573256;-70.801945;1580;12;216;true;;https://www.conavicoop.cl/proyectos/13/miguel-arteche-iii-iv
+1067449;Venta Nuevo;Bernardo OHiggins ;Peumo;true;false;;3;1;0;14-08-2018;53.81;53.81;104.4;0.0;1100.0;1100.0;3.0322369E7;1100.0;-34.391997;-71.175575;1455;6;234;true;;http://lacruzinmobiliaria.cl/portfolio/parque-sur-2/
+420152;Venta Nuevo;Metropolitana;Huechuraba;true;false;;3;3;0;13-08-2015;86.74;86.74;202.36;0.0;4590.0;4590.0;1.26526976E8;4590.0;-33.354034;-70.683859;7664;5;1499;true;;
+522349;Venta Nuevo;Metropolitana;Huechuraba;true;false;;3;3;0;14-03-2016;152.5;152.5;77.71;0.0;6550.0;6550.0;1.80555924E8;6550.0;-33.349305;-70.675338;3926;6;798;true;;
+916700;Venta Nuevo;Biobío;Chiguayante;true;false;;3;2;0;04-12-2017;60.77;60.77;76.13;0.0;2250.0;2250.0;6.2023027E7;2250.0;-36.936404;-73.028281;779;1;114;true;;
+310718;Venta Nuevo;Biobío;Chiguayante;true;false;;3;2;0;03-12-2014;100.0;100.0;100.0;0.0;3490.0;3490.0;9.6204607E7;3490.0;-36.935778;-73.026609;3536;1;289;true;;
+1115146;Venta Nuevo;Metropolitana;Padre Hurtado;true;false;;3;1;0;13-11-2018;50.6;50.6;50.6;0.0;1360.0;1360.0;3.7489474E7;1360.0;-33.57897;-70.807705;490;2;94;true;;http://www.metropolitana.cl/proyecto_det.asp?id=29&nombre=Parque%20Aconcagua%20II
+411701;Venta Nuevo;Metropolitana;San Bernardo;true;false;;3;1;0;22-07-2015;50.0;50.0;55.66;0.0;1513.0;1513.0;4.170704E7;1513.0;-33.623389;-70.686641;23401;30;4733;true;;
+1069202;Venta Nuevo;Metropolitana;Colina;true;false;;2;1;0;17-08-2018;49.36;49.36;49.36;0.0;1400.0;1400.0;3.8592106E7;1400.0;-33.189148;-70.672296;2078;4;426;true;;https://www.conavicoop.cl/proyectos/19/condominio-escultor-sergio-castillo
+823768;Venta Nuevo;Metropolitana;La Florida;true;false;;3;2;0;05-07-2017;91.0;91.0;108.8;0.0;5390.0;5390.0;1.48579608E8;5390.0;-33.518824;-70.563113;3138;7;651;true;;
+359017;Venta Nuevo;Araucanía;Temuco;true;false;;3;3;0;17-03-2015;180.0;180.0;180.0;0.0;7526.0;7526.0;2.07460135E8;7526.0;-38.732425;-72.632517;4771;1;148;true;;
+1129492;Venta Nuevo;Metropolitana;Huechuraba;true;false;;3;3;0;03-12-2018;87.77;87.77;133.95;0.0;5215.0;5215.0;1.43755594E8;5215.0;-33.366595;-70.670429;159;0;55;true;;
+1093231;Venta Nuevo;Metropolitana;Lo Barnechea;true;false;;4;4;0;04-10-2018;137.0;137.0;137.0;0.0;10916.0;10916.0;3.00908163E8;10916.0;-33.329117;-70.504824;222;1;16;true;;http://www.enaco.cl/donde/mt-region/barrio-alpino-lo-barnechea-2/
+540686;Venta Nuevo;Metropolitana;Padre Hurtado;true;false;;3;1;0;22-03-2016;49.0;49.0;49.0;0.0;1485.0;1485.0;4.0935198E7;1485.0;-33.571858;-70.804504;12096;11;4266;true;;
+560139;Venta Nuevo;Metropolitana;Huechuraba;true;false;;3;2;0;25-04-2016;123.0;123.0;123.0;0.0;6199.0;6199.0;1.70880332E8;6199.0;-33.365833;-70.667671;4514;11;1024;true;;
+682385;Venta Nuevo;Metropolitana;La Florida;true;false;;3;3;0;07-11-2016;84.0;84.0;118.0;0.0;4752.0;4752.0;1.30992634E8;4752.0;-33.518092;-70.566449;5297;15;2068;true;;
+322690;Venta Nuevo;Bernardo OHiggins ;Rancagua;true;false;;3;2;0;02-01-2015;99.5;99.5;177.02;0.0;3332.0;3332.0;9.1849212E7;3332.0;-34.183193;-70.71617;6649;2;714;true;;
+221586;Venta Nuevo;Metropolitana;Colina;true;false;;3;3;0;28-11-2013;136.0;136.0;136.0;0.0;9145.0;9145.0;2.52089149E8;9145.0;-33.320048;-70.650393;6241;12;526;true;;
+198858;Venta Nuevo;Metropolitana;San Bernardo;true;false;;3;1;0;21-06-2012;56.74;56.74;122.0;0.0;2008.0;2008.0;5.5352106E7;2008.0;-33.618822;-70.681774;16024;42;4997;true;;
+199152;Venta Nuevo;Metropolitana;Las Condes;true;false;;4;4;0;29-05-2013;226.0;226.0;452.0;0.0;19500.0;19500.0;5.37532905E8;19500.0;-33.368044;-70.494976;8095;12;888;true;;
+467874;Venta Nuevo;Antofagasta;Antofagasta;true;false;;5;4;0;25-08-2015;139.98;139.98;318.51;0.0;12000.0;12000.0;3.3078948E8;12000.0;-23.712809;-70.429201;2416;1;120;true;;
+198462;Venta Nuevo;Maule;Talca;true;false;;3;2;0;22-12-2009;67.0;67.0;67.0;0.0;1300.0;1300.0;3.5835527E7;1300.0;-35.451087;-71.67238;13894;10;1640;true;;
+1150409;Venta Nuevo;Bernardo OHiggins ;Rengo;true;false;;3;2;0;04-01-2019;64.0;64.0;64.0;0.0;1900.0;1900.0;5.2375001E7;1900.0;-34.394418;-70.855358;17;0;0;true;;https://py.cl/proyectos/rengo/subsidio/vi-rengo-valles-de-rengo/
+396424;Venta Nuevo;Metropolitana;Quilicura;true;false;;3;2;0;04-06-2015;122.0;122.0;182.0;0.0;5484.0;5484.0;1.51170792E8;5484.0;-33.383274;-70.72415;4380;7;614;true;;
+1145996;Venta Nuevo;Metropolitana;Peñalolén;true;false;;3;3;0;24-12-2018;104.07;104.07;126.37;0.0;5800.0;5800.0;1.59881582E8;5800.0;-33.508197;-70.542923;51;0;4;true;;www.lonuevodesepco.cl/townhouse/
+314456;Venta Nuevo;Araucanía;Temuco;true;false;;4;3;0;11-12-2014;123.0;123.0;235.44;0.0;4859.0;4859.0;1.33942173E8;4859.0;-38.748638;-72.647438;4994;4;393;true;;
+951895;Venta Nuevo;Coquimbo;Coquimbo;true;false;;4;3;0;15-02-2018;128.29;128.29;291.0;0.0;6032.0;6032.0;1.66276845E8;6032.0;-29.965131;-71.303702;454;0;43;true;;http://inmobiliariaserena.cl/proyectos/22/dona-rosita-ii
+334679;Venta Nuevo;Biobío;Los Ángeles;true;false;;3;4;0;29-01-2015;140.0;140.0;140.0;0.0;7250.0;7250.0;1.99851977E8;7250.0;-37.470243;-72.347239;4645;1;166;true;;
+198446;Venta Nuevo;Metropolitana;Quilicura;true;false;;3;2;0;03-08-2009;69.19;69.19;106.0;0.0;2897.0;2897.0;7.9858093E7;2897.0;-33.38053;-70.732048;13721;29;2348;true;;
+800003;Venta Nuevo;Metropolitana;La Reina;true;false;;4;4;0;22-05-2017;164.0;164.0;164.0;0.0;13594.0;13594.0;3.74729349E8;13594.0;-33.438103;-70.520774;1526;10;311;true;;
+798660;Venta Nuevo;Metropolitana;La Reina;true;false;;4;4;0;19-05-2017;139.28;139.28;139.28;0.0;14400.0;14400.0;3.96947376E8;14400.0;-33.431856;-70.524523;1327;3;151;true;;
+1006402;Venta Nuevo;Metropolitana;Peñalolén;true;false;;3;3;0;08-05-2018;104.07;104.07;125.55;0.0;5720.0;5720.0;1.57676318E8;5720.0;-33.5087747;-70.5451006;1444;9;396;true;;
+308525;Venta Nuevo;Metropolitana;Las Condes;true;false;;5;5;0;28-11-2014;256.0;256.0;256.0;0.0;19764.0;19764.0;5.44810273E8;19764.0;-33.417169;-70.510596;7395;25;1183;true;;
+972047;Venta Nuevo;Biobío;San Pedro de la Paz;true;false;;2;1;0;20-03-2018;52.0;52.0;80.0;0.0;1000.0;1000.0;2.756579E7;1000.0;-36.855686;-73.14793;4861;16;980;true;;https://www.vivehogar.cl/proyectos/brisamar-san-pedro-de-la-paz
+1067404;Venta Nuevo;Bernardo OHiggins ;Rengo;true;false;;3;2;0;14-08-2018;79.0;79.0;85.0;0.0;1644.0;1644.0;4.5318158E7;1644.0;-34.398403;-70.859844;617;2;77;true;;http://www.malpo.cl/proyecto/los-alamos-3/#close
+474815;Venta Nuevo;Metropolitana;Colina;true;false;;3;3;0;25-11-2015;122.0;122.0;346.0;0.0;8205.0;8205.0;2.26177306E8;8205.0;-33.2586;-70.641702;17713;6;953;true;;
+876739;Venta Nuevo;Los Lagos;Osorno;true;false;;3;3;0;10-10-2017;98.62;98.62;184.29;0.0;3662.0;3662.0;1.00945922E8;3662.0;-40.597953;-73.107746;849;0;75;true;;
+1068288;Venta Nuevo;Valparaiso;Hijuelas;true;false;;3;2;0;16-08-2018;60.0;60.0;60.0;0.0;1400.0;1400.0;3.8592106E7;1400.0;-32.794678;-71.147465;693;1;60;true;;
+283059;Venta Nuevo;Valparaiso;Quillota;true;false;;3;1;0;02-10-2014;58.9;58.9;58.9;0.0;1100.0;1100.0;3.0322369E7;1100.0;-32.889426;-71.256938;30600;35;5504;true;;
+231923;Venta Nuevo;Metropolitana;Colina;true;false;;3;2;0;14-03-2014;144.0;144.0;446.0;0.0;8790.0;8790.0;2.42303294E8;8790.0;-33.258606;-70.641676;19213;6;676;true;;
+239398;Venta Nuevo;Valparaiso;Los Andes;true;false;;4;3;0;08-05-2014;86.09;86.09;198.91;0.0;3550.0;3550.0;9.7858554E7;3550.0;-32.820904;-70.618423;9690;5;651;true;;
+494247;Venta Nuevo;Coquimbo;Coquimbo;true;false;;3;2;0;08-01-2016;91.33;91.33;91.33;0.0;4330.0;4330.0;1.1935987E8;4330.0;-29.967215;-71.300046;5921;5;713;true;;
+972068;Venta Nuevo;Biobío;San Pedro de la Paz;true;false;;2;1;0;20-03-2018;46.0;46.0;91.0;0.0;1478.0;1478.0;4.0742237E7;1478.0;-36.855797;-73.143558;1250;4;269;true;;https://www.vivehogar.cl/proyectos/los-pinos-de-san-pedro-san-pedro-de-la-paz
+512528;Venta Nuevo;Antofagasta;Antofagasta;true;false;;4;4;0;22-02-2016;197.48;197.48;207.07;0.0;11376.0;11376.0;3.13588427E8;11376.0;-23.704039;-70.417759;2484;1;182;true;;
+1101862;Venta Nuevo;Metropolitana;La Reina;true;false;;3;3;0;18-10-2018;140.0;140.0;140.0;0.0;13200.0;13200.0;3.63868428E8;13200.0;-33.432019;-70.526798;174;2;21;true;;
+826400;Venta Nuevo;Metropolitana;Las Condes;true;false;;5;5;0;06-07-2017;255.39;255.39;594.54;0.0;23768.0;23768.0;6.55183696E8;23768.0;-33.417255;-70.510315;1792;11;317;true;;
+1066243;Venta Nuevo;Atacama;Vallenar;true;false;;2;2;0;13-08-2018;53.86;53.86;95.0;0.0;2000.0;2000.0;5.513158E7;2000.0;-28.58811;-70.74617;804;2;28;true;;http://koyam.cl/property/quinta-valle/
+516554;Venta Nuevo;Valparaiso;Puchuncaví;true;false;;5;5;0;29-02-2016;248.79;248.79;248.79;0.0;20900.0;20900.0;5.76125011E8;20900.0;-32.656626;-71.439997;1167;0;47;true;;
+548388;Venta Nuevo;Bernardo OHiggins ;Machalí;true;false;;3;2;0;04-04-2016;70.3;70.3;227.43;0.0;2400.0;2400.0;6.6157896E7;2400.0;-34.163765;-70.739472;2634;3;430;true;;
+564985;Venta Nuevo;Metropolitana;Padre Hurtado;true;false;;3;2;0;06-05-2016;54.58;54.58;90.0;0.0;1640.0;1640.0;4.5207895E7;1640.0;-33.583402;-70.809339;18080;49;2816;true;;http://www.metropolitana.cl/proyecto_det.asp?id=4&nombre=Parque%20San%20Ignacio
+403049;Venta Nuevo;Biobío;San Pedro de la Paz;true;false;;5;5;0;18-06-2015;247.0;247.0;247.0;0.0;10500.0;10500.0;2.89440795E8;10500.0;-36.848332;-73.096489;3031;1;136;true;;
+434385;Venta Nuevo;Metropolitana;Colina;true;false;;5;5;0;09-09-2015;192.8;192.8;473.5;0.0;12006.0;12006.0;3.30954874E8;12006.0;-33.264458;-70.634084;2113;2;271;true;;
+954677;Venta Nuevo;Metropolitana;Macul;true;false;;3;2;0;21-02-2018;72.72;72.72;115.15;0.0;4745.0;4745.0;1.30799673E8;4745.0;-33.489754;-70.597984;1822;5;454;true;;
+297604;Venta Nuevo;Maule;Curicó;true;false;;2;1;0;07-11-2014;48.0;48.0;48.0;0.0;1140.0;1140.0;3.1425E7;1140.0;-34.97455;-71.264704;10344;8;2035;true;;
+916594;Venta Nuevo;Metropolitana;Las Condes;true;false;;3;3;0;04-12-2017;167.0;167.0;136.0;0.0;14644.0;14644.0;4.03673428E8;14644.0;-33.411431;-70.564546;2818;5;695;true;;
+852687;Venta Nuevo;Valparaiso;Limache;true;false;;3;3;0;21-08-2017;79.11;79.11;147.16;0.0;2360.0;2360.0;6.5055264E7;2360.0;-33.007631;-71.252273;894;0;101;true;;
+952987;Venta Nuevo;Coquimbo;Coquimbo;true;false;;3;2;0;16-02-2018;74.83;74.83;150.0;0.0;2439.0;2439.0;6.7232961E7;2439.0;-29.993203;-71.332118;2022;8;335;true;;http://www.iserena.cl/proyectos/19/nueva-vista-al-mar-iii
+1101887;Venta Nuevo;Metropolitana;Peñalolén;true;false;;4;4;0;18-10-2018;165.53;165.53;188.38;0.0;10490.0;10490.0;2.89165137E8;10490.0;-33.49723;-70.528393;137;0;14;true;;https://condominioalencuentro.cl/propiedad/condominio-al-encuentro/
+578316;Venta Nuevo;Coquimbo;Coquimbo;true;false;;3;2;0;30-05-2016;57.53;57.53;127.37;0.0;1615.0;1615.0;4.451875E7;1615.0;-29.996609;-71.333718;3784;4;1267;true;;
+851618;Venta Nuevo;Metropolitana;Ñuñoa;true;false;;3;3;0;18-08-2017;45.7;45.7;119.56;0.0;7906.0;7906.0;2.17935135E8;7906.0;-33.445578;-70.57795;4033;15;823;true;;
+916659;Venta Nuevo;Biobío;Concepción;true;false;;3;2;0;04-12-2017;61.78;61.78;112.92;0.0;2700.0;2700.0;7.4427633E7;2700.0;-36.805041;-73.064054;953;1;213;true;;
+1075181;Venta Nuevo;Biobío;Chillán;true;false;;3;1;0;28-08-2018;52.1;52.1;84.7;0.0;1667.0;1667.0;4.5952171E7;1667.0;-36.595424;-72.113309;551;1;41;true;;https://www.vivehogar.cl/proyectos/arboleda-lantano-chillan
+1115127;Venta Nuevo;Metropolitana;La Reina;true;false;;3;3;0;13-11-2018;140.0;140.0;140.0;0.0;14850.0;14850.0;4.09351981E8;14850.0;-33.440767;-70.530022;81;0;2;true;;
+823736;Venta Nuevo;Metropolitana;La Reina;true;false;;3;3;0;05-07-2017;140.0;140.0;332.0;0.0;14550.0;14550.0;4.01082244E8;14550.0;-33.442743;-70.532703;894;5;197;true;;
+287337;Venta Nuevo;Maule;Curicó;true;false;;2;1;0;09-10-2014;51.0;51.0;51.0;0.0;1250.0;1250.0;3.4457237E7;1250.0;-34.961558;-71.19895;12848;6;1154;true;;
+199498;Venta Nuevo;Coquimbo;Coquimbo;true;false;;3;2;0;04-07-2013;57.53;57.53;126.9;0.0;1615.0;1615.0;4.451875E7;1615.0;-29.99645;-71.333499;11023;9;1928;true;;
+1066304;Venta Nuevo;Bernardo OHiggins ;San Fernando;true;false;;3;2;0;13-08-2018;61.84;61.84;61.84;0.0;1400.0;1400.0;3.8592106E7;1400.0;-34.580137;-71.009321;967;1;201;true;;http://lacruzinmobiliaria.cl/portfolio/parque-poniente-ii/
+740827;Venta Nuevo;Metropolitana;Colina;true;false;;4;4;0;27-02-2017;297.0;297.0;3893.0;0.0;22850.0;22850.0;6.29878301E8;22850.0;-33.277512;-70.670345;3627;2;595;true;;
+845812;Venta Nuevo;Bernardo OHiggins ;Machalí;true;false;;3;3;0;09-08-2017;139.02;139.02;602.0;0.0;7210.0;7210.0;1.98749345E8;7210.0;-34.199289;-70.669388;544;0;113;true;;
+950982;Venta Nuevo;Biobío;San Pedro de la Paz;true;false;;4;3;0;12-02-2018;122.5;122.5;152.0;0.0;4848.0;4848.0;1.33638949E8;4848.0;-36.834578;-73.108343;251;0;26;true;;
+272175;Venta Nuevo;Valparaiso;Concón;true;false;;3;3;0;25-09-2014;125.5;125.5;230.6;0.0;7324.0;7324.0;2.01891845E8;7324.0;-32.940664;-71.520916;5225;5;518;true;;
+327373;Venta Nuevo;Biobío;Chillán;true;false;;3;2;0;13-01-2015;110.0;110.0;110.0;0.0;3490.0;3490.0;9.6204607E7;3490.0;-36.596736;-72.112705;5332;0;251;true;;
+962502;Venta Nuevo;Biobío;Concepción;true;false;;3;2;0;05-03-2018;53.2;53.2;60.91;0.0;2100.0;2100.0;5.7888159E7;2100.0;-36.807043;-73.06104;1639;4;244;true;;
+560387;Venta Nuevo;Metropolitana;Peñalolén;true;false;;5;4;0;26-04-2016;212.8;212.8;410.52;0.0;12560.0;12560.0;3.46226322E8;12560.0;-33.49708;-70.528419;2766;8;289;true;;
+1006372;Venta Nuevo;Metropolitana;Ñuñoa;true;false;;3;3;0;08-05-2018;99.44;99.44;99.44;0.0;10000.0;10000.0;2.756579E8;10000.0;-33.4512493;-70.5899785;1758;3;280;true;;
+199547;Venta Nuevo;Metropolitana;Peñalolén;true;false;;3;3;0;26-08-2013;126.41;126.41;300.89;0.0;7844.0;7844.0;2.16226056E8;7844.0;-33.499678;-70.525639;10076;18;2743;true;;
+297673;Venta Nuevo;Maule;Talca;true;false;;2;1;0;07-11-2014;48.0;48.0;253.0;0.0;1210.0;1210.0;3.3354605E7;1210.0;-35.463955;-71.668843;19109;15;2964;true;;
+818817;Venta Nuevo;Metropolitana;La Reina;true;false;;3;3;0;20-06-2017;140.0;140.0;140.0;0.0;13750.0;13750.0;3.79029612E8;13750.0;-33.452302;-70.528278;1165;6;176;true;;
+1074491;Venta Nuevo;Biobío;San Pedro de la Paz;true;false;;2;1;0;27-08-2018;57.0;57.0;57.0;0.0;1400.0;1400.0;3.8592106E7;1400.0;-36.877392;-73.134521;706;1;92;true;;https://www.enlacebiobio.cl/coronel/casa/foresta-etapa-iv/4267
+977331;Venta Nuevo;Metropolitana;Puente Alto;true;false;;3;2;0;29-03-2018;65.13;65.13;120.0;0.0;2818.0;2818.0;7.7680396E7;2818.0;-33.5777583;-70.5952195;3955;19;1484;true;;
+327479;Venta Nuevo;Biobío;Chillán;true;false;;4;3;0;13-01-2015;101.0;101.0;101.0;0.0;2569.0;2569.0;7.0816514E7;2569.0;-36.626815;-72.06503;19733;9;1500;true;;
+1078788;Venta Nuevo;Metropolitana;Buin;true;false;;3;1;0;04-09-2018;58.0;58.0;58.0;0.0;2137.0;2137.0;5.8908093E7;2137.0;-33.716896;-70.742493;1646;8;357;true;;http://nogalesdebuin.cl/castano/
+1037600;Venta Nuevo;Metropolitana;La Florida;true;false;;3;3;0;25-06-2018;80.8;80.8;79.86;0.0;4336.0;4336.0;1.19525265E8;4336.0;-33.520435;-70.559427;1241;12;240;true;;http://www.plazaandalien.cl/#ubicacion
+198284;Venta Nuevo;Metropolitana;Cerrillos;true;false;;4;3;0;01-11-2007;85.0;85.0;126.0;0.0;4400.0;4400.0;1.21289476E8;4400.0;-33.512587;-70.707954;14838;13;2379;true;;
+475508;Venta Nuevo;Metropolitana;La Reina;true;false;;4;4;0;27-11-2015;140.0;140.0;346.2;0.0;13290.0;13290.0;3.66349349E8;13290.0;-33.444408;-70.523509;2725;5;492;true;;
+1104619;Venta Nuevo;Metropolitana;La Reina;true;false;;3;5;0;23-10-2018;140.0;140.0;140.0;0.0;13900.0;13900.0;3.83164481E8;13900.0;-33.455531;-70.526557;190;0;23;true;;http://www.i-eins.cl/AltoBernstein.html
+240876;Venta Nuevo;Bernardo OHiggins ;Machalí;true;false;;3;3;0;21-07-2011;89.0;89.0;177.0;0.0;3240.0;3240.0;8.9313159E7;3240.0;-34.181116;-70.690498;4928;3;678;true;;
+331304;Venta Nuevo;Biobío;Coronel;true;false;;2;1;0;23-01-2015;49.15;49.15;49.15;0.0;1400.0;1400.0;3.8592106E7;1400.0;-36.990504;-73.143664;3831;0;126;true;;http://urbani.cl/proyecto/el-bosque-81.html
+392189;Venta Nuevo;Metropolitana;La Reina;true;false;;3;2;0;27-05-2015;139.96;139.96;139.96;0.0;11290.0;11290.0;3.11217769E8;11290.0;-33.45613;-70.527695;8540;31;1910;true;;
+467885;Venta Nuevo;Valparaiso;Valparaíso;true;false;;3;3;0;12-08-2015;94.47;94.47;201.5;0.0;3496.0;3496.0;9.6370001E7;3496.0;-33.14326;-71.566485;2589;6;491;true;;
+229808;Venta Nuevo;Metropolitana;Colina;true;false;;5;3;0;08-09-2010;185.33;185.33;189.0;0.0;4950.0;4950.0;1.3645066E8;4950.0;-33.286539;-70.673804;301;0;77;true;;
+460945;Venta Nuevo;Maule;Talca;true;false;;3;1;0;28-10-2015;56.55;56.55;56.55;0.0;950.0;950.0;2.61875E7;950.0;-35.444146;-71.700887;13838;12;1967;true;;
+593509;Venta Nuevo;Valparaiso;Valparaíso;true;false;;3;3;0;06-07-2016;89.37;89.37;91.34;0.0;3760.0;3760.0;1.0364737E8;3760.0;-33.145886;-71.567961;5174;8;650;true;;
+403059;Venta Nuevo;Metropolitana;Puente Alto;true;false;;3;1;0;09-06-2015;60.07;60.07;95.21;0.0;2099.0;2099.0;5.7860593E7;2099.0;-33.580268;-70.606255;29727;72;10395;true;;
+1077226;Venta Nuevo;Metropolitana;Buin;true;false;;3;2;0;31-08-2018;54.57;54.57;80.0;0.0;1300.0;1300.0;3.5835527E7;1300.0;-33.710383;-70.745314;2924;15;773;true;;http://www.metropolitana.cl/proyecto_det.asp?id=30&nombre=Los%20Parques%20de%20Buin%20Sur%A0%A0%A0(D
+820342;Venta Nuevo;Metropolitana;Providencia;true;false;;3;3;0;22-06-2017;95.25;95.25;123.84;0.0;9490.0;9490.0;2.61599347E8;9490.0;-33.443766;-70.595519;3328;12;695;true;;
+755839;Venta Nuevo;Metropolitana;Providencia;true;false;;3;2;0;23-03-2017;85.0;85.0;92.0;0.0;8850.0;8850.0;2.43957241E8;8850.0;-33.443926;-70.597674;25701;47;7003;true;;
+476917;Venta Nuevo;Metropolitana;Peñalolén;true;false;;4;4;0;30-11-2015;136.91;136.91;152.7;0.0;8800.0;8800.0;2.42578952E8;8800.0;-33.500092;-70.525636;4091;6;1033;true;;
+199193;Venta Nuevo;Metropolitana;Colina;true;false;;4;4;0;17-06-2013;174.5;174.5;403.6;0.0;11028.0;11028.0;3.03995532E8;11028.0;-33.324074;-70.645223;5381;5;427;true;;
+820205;Venta Nuevo;Metropolitana;La Reina;true;false;;4;4;0;22-06-2017;240.83;240.83;627.87;0.0;15900.0;15900.0;4.38296061E8;15900.0;-33.451961;-70.536251;1138;1;171;true;;
+752211;Venta Nuevo;Coquimbo;La Serena;true;false;;3;3;0;05-05-2016;140.0;140.0;915.0;0.0;8431.0;8431.0;2.32407175E8;8431.0;-29.833977;-71.272733;1103;1;75;true;;
+217044;Venta Nuevo;Metropolitana;Colina;true;false;;3;3;0;15-10-2013;174.55;174.55;469.94;0.0;10516.0;10516.0;2.89881847E8;10516.0;-33.320897;-70.646977;55001;11;3326;true;;https://www.idea.cl/proyectos/portal-santa-maria-iii/
+916691;Venta Nuevo;Coquimbo;La Serena;true;false;;3;2;0;04-12-2017;76.1;76.1;188.1;0.0;3260.0;3260.0;8.9864475E7;3260.0;-29.912163;-71.237087;1062;4;171;true;;
+721145;Venta Nuevo;Metropolitana;La Reina;true;false;;3;3;0;10-01-2017;175.0;175.0;528.97;0.0;14800.0;14800.0;4.07973692E8;14800.0;-33.452766;-70.52027;1907;8;330;true;;
+752210;Venta Nuevo;Coquimbo;La Serena;true;false;;3;3;0;05-05-2016;105.4;105.4;435.0;0.0;4400.0;4400.0;1.21289476E8;4400.0;-29.835935;-71.278981;1848;1;376;true;;
+1098132;Venta Nuevo;Metropolitana;La Reina;true;false;;3;3;0;11-10-2018;140.0;140.0;492.15;0.0;14423.0;14423.0;3.97581389E8;14423.0;-33.452311;-70.520576;278;1;33;true;;http://casareina.cl/home/wp/
+1005162;Venta Nuevo;Metropolitana;La Reina;true;false;;3;3;0;07-05-2018;138.61;138.61;245.0;0.0;13700.0;13700.0;3.77651323E8;13700.0;-33.4530905;-70.5305481;553;5;111;true;;
+1117504;Venta Nuevo;Metropolitana;Peñaflor;true;false;;3;2;0;22-11-2018;64.0;64.0;64.0;0.0;2651.0;2651.0;7.3076909E7;2651.0;-33.614405;-70.895207;194;1;46;true;;http://www.urbasi.cl/proyecto-pedregales/
+198326;Venta Nuevo;Valparaiso;Valparaíso;true;false;;3;2;0;01-11-2007;113.77;113.77;200.0;0.0;4950.0;4950.0;1.3645066E8;4950.0;-33.139589;-71.570193;4811;3;287;true;;
+292885;Venta Nuevo;Valparaiso;Villa Alemana;true;false;;3;3;0;21-10-2014;91.0;91.0;300.0;0.0;2890.0;2890.0;7.9665133E7;2890.0;-33.037935;-71.387713;6420;8;1458;true;;
+217019;Venta Nuevo;Biobío;San Pedro de la Paz;true;false;;3;2;0;24-05-2012;82.2;82.2;87.9;0.0;2130.0;2130.0;5.8715132E7;2130.0;-36.883663;-73.140332;4922;4;714;true;;
+332494;Venta Nuevo;Biobío;Los Ángeles;true;false;;2;1;0;27-01-2015;49.15;49.15;49.15;0.0;1310.0;1310.0;3.6111184E7;1310.0;-37.472938;-72.354446;9159;11;1666;true;;
+452318;Venta Nuevo;Metropolitana;La Reina;true;false;;4;3;0;16-10-2015;140.0;140.0;285.0;0.0;12250.0;12250.0;3.37680927E8;12250.0;-33.439909;-70.546989;4896;15;867;true;;
+198350;Venta Nuevo;Biobío;Los Ángeles;true;false;;3;1;0;27-12-2007;54.0;54.0;54.0;0.0;1800.0;1800.0;4.9618422E7;1800.0;-37.493341;-72.333124;5521;0;639;true;;http://www.socovesa.cl/proyectos/parque-sevilla/
+752212;Venta Nuevo;Valparaiso;Quilpué;true;false;;3;2;0;04-05-2016;65.0;65.0;175.32;0.0;3271.0;3271.0;9.0167699E7;3271.0;-33.074228;-71.425581;2595;1;554;true;;
+198773;Venta Nuevo;Valparaiso;Los Andes;true;false;;3;3;0;11-04-2012;107.04;107.04;401.34;0.0;4516.0;4516.0;1.24487107E8;4516.0;-32.829435;-70.607824;4653;0;275;true;;
+199503;Venta Nuevo;Biobío;San Pedro de la Paz;true;false;;3;2;0;09-07-2013;62.0;62.0;62.0;0.0;2350.0;2350.0;6.4779606E7;2350.0;-36.882995;-73.140251;6277;2;650;true;;
+1113834;Venta Nuevo;Metropolitana;Lo Barnechea;true;false;;3;4;0;08-11-2018;397.0;397.0;397.0;0.0;45000.0;45000.0;1.24046055E9;45000.0;-33.331044;-70.529264;103;0;3;true;;https://patagonland.cl/proyectos/los-nogales/
+1068291;Venta Nuevo;Bernardo OHiggins ;Rancagua;true;false;;3;1;0;16-08-2018;52.44;52.44;52.44;0.0;1800.0;1800.0;4.9618422E7;1800.0;-34.141468;-70.721809;1298;5;126;true;;http://www.concrecasa.cl/viviendas/proyectos-en-venta/aires-de-la-cruz/
+731987;Venta Nuevo;Metropolitana;La Reina;true;false;;3;3;0;03-02-2017;140.0;140.0;140.0;0.0;13890.0;13890.0;3.82888823E8;13890.0;-33.436785;-70.542764;1602;11;370;true;;
+718497;Venta Nuevo;Valparaiso;Villa Alemana;true;false;;3;2;0;05-01-2017;92.83;92.83;246.03;0.0;3456.0;3456.0;9.526737E7;3456.0;-33.034285;-71.379361;7165;9;2050;true;;
+564164;Venta Nuevo;Valparaiso;Papudo;true;false;;4;3;0;04-05-2016;136.0;136.0;246.78;0.0;5883.0;5883.0;1.62169542E8;5883.0;-32.496869;-71.431251;1669;2;182;true;;
+308239;Venta Nuevo;Biobío;San Pedro de la Paz;true;false;;3;3;0;27-11-2014;89.0;89.0;89.0;0.0;2995.0;2995.0;8.2559541E7;2995.0;-36.885928;-73.140849;5692;5;750;true;;http://www.socovesa.cl/proyectos/portal-de-san-pedro/
+403051;Venta Nuevo;Biobío;Chillán;true;false;;5;3;0;17-06-2015;105.0;105.0;105.0;0.0;3800.0;3800.0;1.04750002E8;3800.0;-36.913539;-71.485862;2966;0;199;true;;
+1103758;Venta Nuevo;Los Lagos;Osorno;true;false;;2;1;0;22-10-2018;54.0;54.0;54.0;0.0;1300.0;1300.0;3.5835527E7;1300.0;-40.604212;-73.100157;938;0;136;true;;https://www.avifel.cl/proyecto/lomas_de_castro_I
+198670;Venta Nuevo;Biobío;Concepción;true;false;;3;3;0;15-11-2011;115.65;115.65;183.72;0.0;5045.0;5045.0;1.3906941E8;5045.0;-36.788202;-73.054536;7001;1;611;true;;
+1145869;Venta Nuevo;Metropolitana;Peñalolén;true;false;;4;5;0;24-12-2018;170.48;170.48;399.8;0.0;11495.0;11495.0;3.16868756E8;11495.0;-33.480273;-70.578169;45;0;6;true;;https://www.laspircas.cl/casas-torcaza/
+198429;Venta Nuevo;Los Lagos;Puerto Varas;true;false;;3;3;0;30-03-2009;92.36;92.36;234.98;0.0;4885.0;4885.0;1.34658884E8;4885.0;-41.31167;-72.989763;7755;9;490;true;;http://www.caminodeltrebol.cl/
+1068332;Venta Nuevo;Maule;Talca;true;false;;3;2;0;16-08-2018;0.0;0.0;78.0;0.0;1730.0;1730.0;4.7688816E7;1730.0;-35.42468;-71.664096;1314;4;115;true;;http://www.malpo.cl/proyecto/puertas-del-sur/
+743158;Venta Nuevo;Metropolitana;La Reina;true;false;;3;3;0;03-03-2017;140.0;140.0;324.0;0.0;12800.0;12800.0;3.52842112E8;12800.0;-33.449678;-70.528146;14299;9;1525;true;;
+1117511;Venta Nuevo;Metropolitana;Peñaflor;true;false;;3;2;0;22-11-2018;64.0;64.0;64.0;0.0;2621.0;2621.0;7.2249935E7;2621.0;-33.614423;-70.895197;282;3;75;true;;http://www.urbasi.cl/proyecto-santorini/
+1143010;Venta Nuevo;Metropolitana;Lo Barnechea;true;false;;5;5;0;18-12-2018;268.82;268.82;640.29;0.0;26200.0;26200.0;7.22223698E8;26200.0;-33.338311;-70.5258;42;0;3;true;;http://www.castroytagle.cl/lo-barnechea/casas/el-huique/ficha-62.html
+612685;Venta Nuevo;Metropolitana;Santiago;true;false;;3;2;0;16-08-2016;66.0;66.0;66.0;0.0;4850.0;4850.0;1.33694081E8;4850.0;-33.441189;-70.676493;20274;32;4895;true;;
+1131305;Venta Nuevo;Metropolitana;Colina;true;false;;3;1;0;05-12-2018;52.0;52.0;52.0;0.0;1980.0;1980.0;5.4580264E7;1980.0;-33.200832;-70.678956;262;1;31;true;;https://py.cl/proyectos/colina/subsidio/rm-colina-la-araucaria-de-colina-v/
+250750;Venta Nuevo;Araucanía;Villarrica;true;false;;3;1;0;28-12-2007;66.33;66.33;66.33;0.0;1520.0;1520.0;4.19E7;1520.0;-39.30713;-72.208413;494;1;24;true;;http://martabid.com/public/proyecto.xhtml?proyectoId=4950012
+332403;Venta Nuevo;Biobío;Talcahuano;true;false;;3;2;0;27-01-2015;70.79;70.79;70.79;0.0;2100.0;2100.0;5.7888159E7;2100.0;-36.723916;-73.113158;7515;6;1081;true;;
+292887;Venta Nuevo;Valparaiso;Villa Alemana;true;false;;3;3;0;21-10-2014;94.0;94.0;250.0;0.0;3400.0;3400.0;9.3723686E7;3400.0;-33.038679;-71.387692;6035;6;984;true;;
+1124751;Venta Nuevo;Metropolitana;Las Condes;true;false;;3;3;0;27-11-2018;146.38;146.38;154.9;0.0;14000.0;14000.0;3.8592106E8;14000.0;-33.411586;-70.547748;252;3;36;true;;
+1067209;Venta Nuevo;Valparaiso;San Felipe;true;false;;3;1;0;14-08-2018;51.0;51.0;51.0;0.0;1400.0;1400.0;3.8592106E7;1400.0;-32.738295;-70.733722;899;0;60;true;;https://www.conavicoop.cl/proyectos/30/carlos-pezoa-veliz
+1114650;Venta Nuevo;Metropolitana;Vitacura;true;false;;5;5;0;12-11-2018;279.9;279.9;369.7;0.0;37240.0;37240.0;1.026550019E9;37240.0;-33.374366;-70.553238;134;0;18;true;;https://www.viaaurora.cl/casa-bosque/
+1067170;Venta Nuevo;Coquimbo;Coquimbo;true;false;;3;1;0;14-08-2018;53.3;53.3;0.0;0.0;1400.0;1400.0;3.8592106E7;1400.0;-29.975122;-71.308673;1468;3;174;true;;
+198331;Venta Nuevo;Bernardo OHiggins ;Machalí;true;false;;3;3;0;16-11-2007;131.0;131.0;403.0;0.0;5250.0;5250.0;1.44720397E8;5250.0;-34.183199;-70.670671;11478;3;1209;true;;
+1068300;Venta Nuevo;Maule;San Javier;true;false;;3;1;0;16-08-2018;0.0;0.0;62.0;0.0;1400.0;1400.0;3.8592106E7;1400.0;-35.591274;-71.732451;566;0;50;true;;http://urbani.cl/proyecto/vinedos-de-san-javier-84.html
+1067212;Venta Nuevo;Bernardo OHiggins ;Rengo;true;false;;3;1;0;14-08-2018;52.0;52.0;52.0;0.0;1380.0;1380.0;3.804079E7;1380.0;-34.389547;-70.852942;892;3;232;true;;http://www.ilossilos.cl/proyectos/brisas-del-sur-rengo-2/
+199167;Venta Nuevo;Metropolitana;Lo Barnechea;true;false;;5;4;0;31-05-2013;204.0;204.0;430.0;0.0;14760.0;14760.0;4.0687106E8;14760.0;-33.339313;-70.492551;6464;23;857;true;;
+308451;Venta Nuevo;Metropolitana;Peñalolén;true;false;;4;4;0;27-11-2014;161.74;161.74;379.4;0.0;10600.0;10600.0;2.92197374E8;10600.0;-33.46794;-70.523574;5999;6;873;true;;
+862393;Venta Nuevo;Aysén;Coyhaique;true;false;;3;3;0;11-09-2017;89.0;89.0;89.0;0.0;4430.0;4430.0;1.22116449E8;4430.0;-45.588338;-72.054379;522;1;36;true;;http://www.socovesa.cl/proyectos/estancia-austral/
+917782;Venta Nuevo;Metropolitana;La Reina;true;false;;3;3;0;07-12-2017;103.4;103.4;67.65;0.0;8200.0;8200.0;2.26039478E8;8200.0;-33.452425;-70.552583;2213;5;711;true;;
+314375;Venta Nuevo;Araucanía;Pucón;true;false;;3;2;0;11-12-2014;63.78;63.78;63.78;0.0;4387.0;4387.0;1.2093112E8;4387.0;-39.284177;-71.989038;5436;1;417;true;;
+267696;Venta Nuevo;Bernardo OHiggins ;Rancagua;true;false;;3;1;0;12-09-2014;51.0;51.0;51.0;0.0;1440.0;1440.0;3.9694737E7;1440.0;-34.182698;-70.770401;8218;2;990;true;;
+1143799;Venta Nuevo;Metropolitana;Lampa;true;false;;3;3;0;19-12-2018;78.39;78.39;130.94;0.0;3127.0;3127.0;8.6198225E7;3127.0;-33.326484;-70.753659;101;0;34;true;;https://www.avellaneda.cl/proyectos/casas-del-rahue/
+198932;Venta Nuevo;Metropolitana;Lampa;true;false;;3;3;0;27-09-2012;103.23;103.23;264.06;0.0;3154.0;3154.0;8.6942501E7;3154.0;-33.16041;-70.789935;10405;22;2893;true;;
+199047;Venta Nuevo;Metropolitana;Buin;true;false;;2;2;0;04-04-2013;52.37;52.37;96.84;0.0;1675.0;1675.0;4.6172698E7;1675.0;-33.734384;-70.762418;26809;61;7721;true;;
+1104644;Venta Nuevo;Metropolitana;Peñalolén;true;false;;3;3;0;23-10-2018;104.9;104.9;127.0;0.0;7486.0;7486.0;2.06357503E8;7486.0;-33.468677;-70.523751;193;1;44;true;;
+731922;Venta Nuevo;Metropolitana;Lo Barnechea;true;false;;4;5;0;02-02-2017;240.0;240.0;475.0;0.0;17900.0;17900.0;4.93427641E8;17900.0;-33.353199;-70.480155;1313;1;249;true;;
+610762;Venta Nuevo;Metropolitana;Colina;true;false;;3;3;0;10-08-2016;149.12;149.12;403.0;0.0;8890.0;8890.0;2.45059873E8;8890.0;-33.303092;-70.68317;2211;2;172;true;;
+816365;Venta Nuevo;Los Lagos;Osorno;true;false;;3;3;0;14-06-2017;110.0;110.0;110.0;0.0;5210.0;5210.0;1.43617765E8;5210.0;-40.595615;-73.117569;1017;1;70;true;;
+1055497;Venta Nuevo;Metropolitana;Buin;true;false;;3;2;0;25-06-2018;60.29;60.29;138.06;0.0;2246.0;2246.0;6.1912764E7;2246.0;-33.73891;-70.761272;1333;9;385;true;;http://www.valletranquilo.cl/2.0/
+1067410;Venta Nuevo;Valparaiso;Villa Alemana;true;false;;3;1;0;14-08-2018;50.1;50.1;50.1;0.0;1400.0;1400.0;3.8592106E7;1400.0;-33.05979;-71.392308;3081;13;386;true;;http://codeh.cl/los-naranjos-iv-de-villa-alemana/
+400807;Venta Nuevo;Biobío;Santa Juana;true;false;;3;1;0;18-06-2015;48.0;48.0;123.53;0.0;1100.0;1100.0;3.0322369E7;1100.0;-37.16718;-72.954766;4430;2;216;true;;
+822550;Venta Nuevo;Araucanía;Temuco;true;false;;3;4;0;29-06-2017;220.0;220.0;5003.0;0.0;11590.0;11590.0;3.19487506E8;11590.0;-38.725209;-72.574213;886;0;50;true;;
+305267;Venta Nuevo;Metropolitana;Buin;true;false;;3;2;0;21-11-2014;65.5;65.5;100.0;0.0;1850.0;1850.0;5.0996711E7;1850.0;-33.733916;-70.763868;14500;39;3834;true;;
+334997;Venta Nuevo;Biobío;San Pedro de la Paz;true;false;;2;1;0;30-01-2015;51.57;51.57;51.57;0.0;1290.0;1290.0;3.5559869E7;1290.0;-36.864649;-73.136585;7292;7;1127;true;;
+1067204;Venta Nuevo;Valparaiso;Calera;true;false;;3;1;0;14-08-2018;52.95;52.95;52.95;0.0;1400.0;1400.0;3.8592106E7;1400.0;-32.785345;-71.174971;666;0;52;true;;http://codeh.cl/los-olivos-de-la-calera/
+198365;Venta Nuevo;Los Lagos;Puerto Varas;true;false;;3;3;0;02-01-2008;81.82;81.82;81.82;0.0;2990.0;2990.0;8.2421712E7;2990.0;-41.34598;-72.945067;20294;6;1363;true;;http://www.gpr.cl/casas/puerto-varas/quil%C3%A9n-de-puerto-varas/proyecto2-4
+801838;Venta Nuevo;Metropolitana;Peñalolén;true;false;;3;3;0;25-05-2017;149.17;149.17;172.28;0.0;9490.0;9490.0;2.61599347E8;9490.0;-33.466727;-70.527269;2360;2;442;true;;Landing.condominiomirador.cl
+198565;Venta Nuevo;Metropolitana;Talagante;true;false;;3;2;0;08-06-2011;72.0;72.0;124.0;0.0;2550.0;2550.0;7.0292764E7;2550.0;-33.670868;-70.942137;13247;7;3285;true;;http://www.galizzo.cl/proyectos/alto-del-sol/
+403068;Venta Nuevo;Metropolitana;Peñalolén;true;false;;5;4;0;27-05-2015;170.24;170.24;347.0;0.0;9850.0;9850.0;2.71523031E8;9850.0;-33.493715;-70.547253;5724;14;1118;true;;
+1139468;Venta Nuevo;Araucanía;Temuco;true;false;;3;3;0;13-12-2018;112.92;112.92;148.0;0.0;5905.0;5905.0;1.62775989E8;5905.0;-38.726838;-72.639546;17;0;0;true;;
+1073381;Venta Nuevo;Maule;Cauquenes;true;false;;2;1;0;24-08-2018;58.32;58.32;58.32;0.0;1100.0;1100.0;3.0322369E7;1100.0;-35.958183;-72.340496;1081;2;113;true;;
+972124;Venta Nuevo;Valparaiso;Zapallar;true;false;;3;2;0;20-03-2018;126.14;126.14;126.14;0.0;22880.0;22880.0;6.30705275E8;22880.0;-32.57795;-71.450318;326;1;23;true;;
+198627;Venta Nuevo;Metropolitana;Puente Alto;true;false;;3;3;0;08-09-2011;80.97;80.97;118.58;0.0;3614.0;3614.0;9.9622765E7;3614.0;-33.598297;-70.549621;24884;46;8495;true;;
+395905;Venta Nuevo;Metropolitana;Lampa;true;false;;3;2;0;03-06-2015;88.0;88.0;159.0;0.0;3027.0;3027.0;8.3441646E7;3027.0;-33.330291;-70.764959;13382;10;3299;true;;
+916723;Venta Nuevo;Metropolitana;Puente Alto;true;false;;3;3;0;04-12-2017;90.91;90.91;100.88;0.0;3812.0;3812.0;1.05080791E8;3812.0;-33.575534;-70.541957;2021;11;635;true;;
+971232;Venta Nuevo;Metropolitana;Colina;true;false;;3;3;0;19-03-2018;125.36;125.36;302.3;0.0;6239.0;6239.0;1.71982963E8;6239.0;-33.207409;-70.667021;502;2;120;true;;
+297533;Venta Nuevo;Bernardo OHiggins ;Rengo;true;false;;3;2;0;06-11-2014;84.0;84.0;307.0;0.0;1390.0;1390.0;3.8316448E7;1390.0;-34.40899;-70.859469;15336;23;1930;true;;
+199488;Venta Nuevo;Biobío;Chillán;true;false;;4;4;0;01-07-2013;134.0;134.0;180.0;0.0;5200.0;5200.0;1.43342108E8;5200.0;-36.593444;-72.068059;4283;0;123;true;;
+530203;Venta Nuevo;Bernardo OHiggins ;Rancagua;true;false;;3;2;0;16-03-2016;57.0;57.0;57.0;0.0;1740.0;1740.0;4.7964474E7;1740.0;-34.190826;-70.722774;17041;15;2082;true;;
+869066;Venta Nuevo;Bernardo OHiggins ;Rancagua;true;false;;3;1;0;02-10-2017;54.0;54.0;131.6;0.0;1940.0;1940.0;5.3477632E7;1940.0;-34.152567;-70.767063;2349;6;576;true;;WWW.CASASLASPALMAS.CL
+542732;Venta Nuevo;Metropolitana;Puente Alto;true;false;;3;3;0;29-03-2016;99.39;99.39;99.39;0.0;3334.0;3334.0;9.1904343E7;3334.0;-33.575466;-70.541232;8222;30;2676;true;;
+373870;Venta Nuevo;Biobío;San Pedro de la Paz;true;false;;3;3;0;28-04-2015;98.7;98.7;249.0;0.0;4754.0;4754.0;1.31047765E8;4754.0;-36.879988;-73.063523;3990;2;425;true;;
+543076;Venta Nuevo;Metropolitana;Peñalolén;true;false;;3;3;0;30-03-2016;126.4;126.4;301.06;0.0;8229.0;8229.0;2.26838885E8;8229.0;-33.492689;-70.542241;3507;10;1133;true;;
+198357;Venta Nuevo;Araucanía;Lautaro;true;false;;3;1;0;28-12-2007;59.85;59.85;59.85;0.0;1400.0;1400.0;3.8592106E7;1400.0;-38.520848;-72.424949;7672;2;311;true;;http://www.martabid.com/public/proyectos.xhtml
+750339;Venta Nuevo;Metropolitana;Huechuraba;true;false;;3;3;0;15-03-2017;117.0;117.0;117.0;0.0;5930.0;5930.0;1.63465134E8;5930.0;-33.351336;-70.673439;5349;12;1201;true;;
+1092683;Venta Nuevo;Metropolitana;Buin;true;false;;3;3;0;03-10-2018;75.0;75.0;75.0;0.0;3705.0;3705.0;1.02131251E8;3705.0;-33.755198;-70.740028;299;4;50;true;;https://py.cl/proyectos/buin/casas/rm-buin-quinta-linderos-condominio-los-castanos/
+916672;Venta Nuevo;Araucanía;Villarrica;true;false;;2;1;0;04-12-2017;53.0;53.0;123.0;0.0;1750.0;1750.0;4.8240132E7;1750.0;-39.296779;-72.238264;4371;13;749;true;;
+1114776;Venta Nuevo;Metropolitana;Peñalolén;true;false;;3;4;0;12-11-2018;125.4;125.4;196.2;0.0;7240.0;7240.0;1.99576319E8;7240.0;-33.493715;-70.547102;110;2;24;true;;https://www.athink.cl/plazoleta/
+1071357;Venta Nuevo;Maule;Curicó;true;false;;3;1;0;22-08-2018;66.0;66.0;66.0;0.0;1100.0;1100.0;3.0322369E7;1100.0;-34.960241;-71.211996;2713;7;541;true;;https://www.cindependencia.cl/proyecto/don-sebastian-de-rauquen/
+198987;Venta Nuevo;Metropolitana;Buin;true;false;;3;2;0;03-01-2013;95.87;95.87;200.08;0.0;4110.0;4110.0;1.13295396E8;4110.0;-33.759431;-70.743137;11924;21;2352;true;;
+800058;Venta Nuevo;Metropolitana;Lampa;true;false;;3;1;0;22-05-2017;50.38;50.38;50.38;0.0;1700.0;1700.0;4.6861843E7;1700.0;-33.333443;-70.767421;16460;32;5184;true;;
+283060;Venta Nuevo;Valparaiso;Quillota;true;false;;3;3;0;02-10-2014;106.68;106.68;328.0;0.0;3717.0;3717.0;1.02462041E8;3717.0;-32.871081;-71.242669;5725;7;361;true;;
+826363;Venta Nuevo;Metropolitana;Colina;true;false;;4;5;0;06-07-2017;301.9;301.9;958.6;0.0;19700.0;19700.0;5.43046063E8;19700.0;-33.280108;-70.619882;564;2;84;true;;
+198952;Venta Nuevo;Metropolitana;Huechuraba;true;false;;4;3;0;22-10-2012;139.78;139.78;139.78;0.0;4990.0;4990.0;1.37553292E8;4990.0;-33.351242;-70.674983;14273;50;2952;true;;
+296346;Venta Nuevo;Biobío;Chiguayante;true;false;;3;2;0;03-11-2014;84.0;84.0;84.0;0.0;3050.0;3050.0;8.4075659E7;3050.0;-36.930262;-73.019506;5616;1;374;true;;http://www.socovesa.cl/proyectos/condominio-alto-castano/
+240556;Venta Nuevo;Metropolitana;Colina;true;false;;4;4;0;26-05-2014;164.71;164.71;401.0;0.0;9047.0;9047.0;2.49387702E8;9047.0;-33.310195;-70.661337;3985;9;451;true;;
+916718;Venta Nuevo;Metropolitana;Peñalolén;true;false;;4;3;0;04-12-2017;280.23;280.23;159.1;0.0;11700.0;11700.0;3.22519743E8;11700.0;-33.501903;-70.530286;674;1;133;true;;
+822390;Venta Nuevo;Coquimbo;Ovalle;true;false;;3;1;0;28-06-2017;49.9;49.9;148.61;0.0;1910.0;1910.0;5.2650658E7;1910.0;-30.618127;-71.210808;2334;2;390;true;;
+494027;Venta Nuevo;Valparaiso;Quillota;true;false;;3;3;0;07-01-2016;85.34;85.34;85.34;0.0;2670.0;2670.0;7.3600659E7;2670.0;-32.839735;-71.227938;5078;7;837;true;;
+732002;Venta Nuevo;Metropolitana;Ñuñoa;true;false;;3;3;0;03-02-2017;13.3;13.3;115.6;0.0;7690.0;7690.0;2.11980925E8;7690.0;-33.449783;-70.622818;6538;22;2342;true;;
+543085;Venta Nuevo;Bernardo OHiggins ;Machalí;true;false;;3;3;0;30-03-2016;78.0;78.0;172.98;0.0;2525.0;2525.0;6.9603619E7;2525.0;-34.172701;-70.686175;1756;7;542;true;;
+411936;Venta Nuevo;Metropolitana;Puente Alto;true;false;;3;3;0;23-07-2015;109.0;109.0;269.0;0.0;4875.0;4875.0;1.34383226E8;4875.0;-33.597665;-70.509684;4755;7;688;true;;
+1067430;Venta Nuevo;Bernardo OHiggins ;Rancagua;true;false;;2;1;0;14-08-2018;52.27;52.27;52.27;0.0;1200.0;1200.0;3.3078948E7;1200.0;-34.153396;-70.703396;1847;7;344;true;;http://www.cvp.cl/projects/4
+319122;Venta Nuevo;Bernardo OHiggins ;Machalí;true;false;;3;3;0;29-12-2014;115.0;115.0;179.97;0.0;3961.0;3961.0;1.09188094E8;3961.0;-34.172701;-70.686175;3982;2;403;true;;
+1134191;Venta Nuevo;Metropolitana;La Reina;true;false;;4;4;0;10-12-2018;310.0;310.0;591.06;0.0;19900.0;19900.0;5.48559221E8;19900.0;-33.442828;-70.519115;103;1;9;true;;http://empresastarget.cl/proyectos/el-escultor-home/
+321289;Venta Nuevo;Bernardo OHiggins ;Machalí;true;false;;3;2;0;31-12-2014;75.6;75.6;75.6;0.0;2275.0;2275.0;6.2712172E7;2275.0;-34.175377;-70.654374;6266;12;1184;true;;
+199006;Venta Nuevo;Biobío;Talcahuano;true;false;;3;3;0;21-01-2013;95.71;95.71;153.45;0.0;3740.0;3740.0;1.03096054E8;3740.0;-36.77638;-73.053638;5734;6;454;true;;
+412007;Venta Nuevo;Valparaiso;San Antonio;true;false;;4;2;0;23-07-2015;57.33;57.33;142.08;0.0;1550.0;1550.0;4.2726974E7;1550.0;-33.639854;-71.572562;13448;10;1254;true;;
+1067367;Venta Nuevo;Bernardo OHiggins ;Rancagua;true;false;;3;1;0;14-08-2018;60.0;60.0;60.0;0.0;1627.0;1627.0;4.484954E7;1627.0;-34.176276;-70.771122;598;3;69;true;;http://www.socovesa.cl/proyectos/prados-de-santa-clara/
+560966;Venta Nuevo;Bernardo OHiggins ;Machalí;true;false;;3;2;0;28-04-2016;85.0;85.0;170.13;0.0;2936.0;2936.0;8.0933159E7;2936.0;-34.172639;-70.686175;1506;2;301;true;;
+962451;Venta Nuevo;Coquimbo;Coquimbo;true;false;;2;1;0;05-03-2018;53.37;53.37;133.0;0.0;1732.0;1732.0;4.7743948E7;1732.0;-30.005607;-71.329947;1877;1;448;true;;
+826309;Venta Nuevo;Metropolitana;Lampa;true;false;;3;2;0;06-07-2017;65.0;65.0;160.0;0.0;2555.0;2555.0;7.0430593E7;2555.0;-33.33749;-70.816001;3245;3;831;true;;
+510954;Venta Nuevo;Metropolitana;Pudahuel;true;false;;3;2;0;16-02-2016;110.0;110.0;412.0;0.0;5510.0;5510.0;1.51887502E8;5510.0;-33.456163;-70.823963;6296;7;1172;true;;
+199169;Venta Nuevo;Metropolitana;Maipú;true;false;;3;3;0;31-05-2013;84.0;84.0;112.0;0.0;3370.0;3370.0;9.2896712E7;3370.0;-33.539675;-70.791685;41566;36;7549;true;;
+506346;Venta Nuevo;Metropolitana;Macul;true;false;;3;3;0;28-01-2016;98.44;98.44;113.37;0.0;4842.0;4842.0;1.33473555E8;4842.0;-33.491239;-70.585875;8938;23;2439;true;;
+971134;Venta Nuevo;Biobío;San Pedro de la Paz;true;false;;3;2;0;19-03-2018;115.0;115.0;115.0;0.0;1820.0;1820.0;5.0169737E7;1820.0;-36.897632;-73.148292;763;3;206;true;;
+1134221;Venta Nuevo;Metropolitana;Macul;true;false;;3;2;0;10-12-2018;70.0;70.0;70.0;0.0;3618.0;3618.0;9.9733028E7;3618.0;-33.49588;-70.588337;267;2;92;true;;www.delsolconstrucciones.cl/wp-content/uploads/2017/06/PROYECTO-INMOBILIARIO-JUNIO-2017-CONDOMINIO-S
+972053;Venta Nuevo;Metropolitana;Las Condes;true;false;;4;3;0;20-03-2018;250.54;250.54;475.0;0.0;25881.0;25881.0;7.1343021E8;25881.0;-33.388403;-70.517663;1364;4;338;true;;
+1132035;Venta Nuevo;Metropolitana;Colina;true;false;;2;3;0;06-12-2018;95.33;95.33;149.05;0.0;4504.0;4504.0;1.24156318E8;4504.0;-33.205267;-70.655891;149;0;48;true;;http://garciabruce.cl/alihuen.php
+1010633;Venta Nuevo;Metropolitana;La Reina;true;false;;4;3;0;15-05-2018;139.0;139.0;139.0;0.0;12100.0;12100.0;3.33546059E8;12100.0;-33.438312;-70.5682695;767;2;146;true;;
+292888;Venta Nuevo;Valparaiso;Villa Alemana;true;false;;3;3;0;21-10-2014;80.0;80.0;80.0;0.0;2690.0;2690.0;7.4151975E7;2690.0;-33.05352;-71.351958;6291;8;948;true;;
+454192;Venta Nuevo;Metropolitana;La Reina;true;false;;3;3;0;19-10-2015;140.0;140.0;297.1;0.0;12600.0;12600.0;3.47328954E8;12600.0;-33.446127;-70.549093;3523;12;570;true;;
+405425;Venta Nuevo;Valparaiso;La Cruz;true;false;;3;2;0;01-07-2015;80.0;80.0;200.0;0.0;3350.0;3350.0;9.2345396E7;3350.0;-32.836604;-71.22823;2422;2;350;true;;
+198816;Venta Nuevo;Metropolitana;Peñaflor;true;false;;4;3;0;16-05-2012;112.0;112.0;120.24;0.0;3205.0;3205.0;8.8348356E7;3205.0;-33.610077;-70.863492;32734;20;4233;true;;
+286839;Venta Nuevo;Valparaiso;San Esteban;true;false;;3;2;0;09-10-2014;85.0;85.0;230.0;0.0;3515.0;3515.0;9.6893751E7;3515.0;-32.822028;-70.592604;4434;1;249;true;;
+297933;Venta Nuevo;Los Lagos;Puerto Montt;true;false;;2;1;0;10-11-2014;48.0;48.0;253.0;0.0;1290.0;1290.0;3.5559869E7;1290.0;-41.462462;-72.925111;18589;20;3367;true;;
+800031;Venta Nuevo;Metropolitana;La Reina;true;false;;5;4;0;22-05-2017;139.96;139.96;139.96;0.0;14138.0;14138.0;3.89725139E8;14138.0;-33.443955;-70.549156;980;1;140;true;;
+297599;Venta Nuevo;Bernardo OHiggins ;Machalí;true;false;;3;3;0;07-11-2014;97.0;97.0;315.0;0.0;2270.0;2270.0;6.2574343E7;2270.0;-34.17906;-70.65642;7690;14;1178;true;;
+560106;Venta Nuevo;Antofagasta;Calama;true;false;;3;3;0;25-04-2016;93.0;93.0;160.0;0.0;5590.0;5590.0;1.54092766E8;5590.0;-22.476472;-68.902722;2468;0;171;true;;
+694953;Venta Nuevo;Antofagasta;Antofagasta;true;false;;4;4;0;28-11-2016;235.0;235.0;235.0;0.0;9965.0;9965.0;2.74693097E8;9965.0;-23.733715;-70.439477;6588;0;178;true;;
+373886;Venta Nuevo;Metropolitana;Colina;true;false;;3;3;0;28-04-2015;145.0;145.0;352.62;0.0;9870.0;9870.0;2.72074347E8;9870.0;-33.258183;-70.63953;8150;19;570;true;;
+1073335;Venta Nuevo;Maule;Villa Alegre;true;false;;4;1;0;24-08-2018;84.0;84.0;84.0;0.0;1250.0;1250.0;3.4457237E7;1250.0;-35.677125;-71.743731;620;0;38;true;;http://fervali.cl/valles-de-villa-alegreiyii/
+492191;Venta Nuevo;Metropolitana;Lampa;true;false;;3;1;0;29-12-2015;54.0;54.0;76.0;0.0;1600.0;1600.0;4.4105264E7;1600.0;-33.324391;-70.743795;26245;56;8559;true;;
+822056;Venta Nuevo;Metropolitana;La Reina;true;false;;3;3;0;27-06-2017;68.32;68.32;96.68;0.0;8035.0;8035.0;2.21491122E8;8035.0;-33.45805;-70.56657;4945;13;1277;true;;
+198467;Venta Nuevo;Metropolitana;San Bernardo;true;false;;3;3;0;19-04-2010;76.5;76.5;138.75;0.0;2663.0;2663.0;7.3407698E7;2663.0;-33.607743;-70.683238;7796;7;1436;true;;http://www.besalcoinmobiliaria.cl/properties/haras-san-bernardo/
+198362;Venta Nuevo;Biobío;Los Ángeles;true;false;;2;1;0;28-12-2007;48.0;48.0;48.0;0.0;1180.0;1180.0;3.2527632E7;1180.0;-37.479094;-72.368483;16288;18;2895;true;;
+420224;Venta Nuevo;Coquimbo;Coquimbo;true;false;;4;3;0;13-08-2015;140.0;140.0;602.0;0.0;7500.0;7500.0;2.06743425E8;7500.0;-29.95261;-71.28181;2515;2;107;true;;
+316187;Venta Nuevo;Metropolitana;Maipú;true;false;;3;3;0;17-12-2014;71.86;71.86;90.42;0.0;3120.0;3120.0;8.6005264E7;3120.0;-33.482289;-70.762958;19077;24;4265;true;;
+916707;Venta Nuevo;Coquimbo;Ovalle;true;false;;3;1;0;04-12-2017;54.75;54.75;158.4;0.0;1590.0;1590.0;4.3829606E7;1590.0;-30.570803;-71.184047;1461;5;195;true;;
+199155;Venta Nuevo;Atacama;Vallenar;true;false;;3;2;0;29-05-2013;62.0;62.0;62.0;0.0;2590.0;2590.0;7.1395396E7;2590.0;-28.574384;-70.784255;5346;0;139;true;;
+199153;Venta Nuevo;Coquimbo;La Serena;true;false;;3;3;0;29-05-2013;78.0;78.0;180.0;0.0;3550.0;3550.0;9.7858554E7;3550.0;-29.935954;-71.239098;5897;2;504;true;;
+199162;Venta Nuevo;Metropolitana;Isla de Maipo;true;false;;3;3;0;30-05-2013;85.41;85.41;198.44;0.0;3260.0;3260.0;8.9864475E7;3260.0;-33.753599;-70.905917;8720;21;1664;true;;
+308155;Venta Nuevo;Biobío;San Pedro de la Paz;true;false;;4;4;0;27-11-2014;139.0;139.0;232.0;0.0;6144.0;6144.0;1.69364213E8;6144.0;-36.856853;-73.08838;4067;5;213;true;;
+563733;Venta Nuevo;Bernardo OHiggins ;Machalí;true;false;;3;3;0;03-05-2016;81.98;81.98;225.33;0.0;2640.0;2640.0;7.2773685E7;2640.0;-34.184814;-70.648166;2337;8;611;true;;
+453502;Venta Nuevo;Metropolitana;Buin;true;false;;3;3;0;19-10-2015;69.6;69.6;67.98;0.0;2685.0;2685.0;7.4014146E7;2685.0;-33.734883;-70.758974;22707;21;7714;true;;
+820311;Venta Nuevo;Metropolitana;Puente Alto;true;false;;3;3;0;22-06-2017;108.0;108.0;175.69;0.0;4755.0;4755.0;1.31075331E8;4755.0;-33.561669;-70.540743;1934;17;550;true;;
+800516;Venta Nuevo;Metropolitana;Lampa;true;false;;3;1;0;23-05-2017;52.0;52.0;52.0;0.0;1596.0;1596.0;4.3995E7;1596.0;-33.295236;-70.866319;8471;25;2100;true;;
+612687;Venta Nuevo;Metropolitana;Colina;true;false;;3;3;0;16-08-2016;133.0;133.0;445.0;0.0;5053.0;5053.0;1.39289936E8;5053.0;-33.182044;-70.649959;2689;4;999;true;;
+838204;Venta Nuevo;Metropolitana;Ñuñoa;true;false;;3;3;0;01-08-2017;56.28;56.28;106.46;0.0;8543.0;8543.0;2.35494543E8;8543.0;-33.436618;-70.582173;3728;17;1106;true;;
+331301;Venta Nuevo;Biobío;Coronel;true;false;;3;1;0;23-01-2015;60.53;60.53;60.53;0.0;1050.0;1050.0;2.8944079E7;1050.0;-36.995107;-73.151867;13228;13;1303;true;;
+1006941;Venta Nuevo;Metropolitana;Macul;true;false;;3;2;0;10-05-2018;75.39;75.39;0.0;0.0;4145.0;4145.0;1.14260199E8;4145.0;-33.494691;-70.599624;1951;9;551;true;;
+198525;Venta Nuevo;Bernardo OHiggins ;Rancagua;true;false;;2;1;0;15-02-2011;48.0;48.0;48.46;0.0;1280.0;1280.0;3.5284211E7;1280.0;-34.18037;-70.768143;30915;38;6714;true;;
+739933;Venta Nuevo;Metropolitana;La Reina;true;false;;2;3;0;24-02-2017;70.4;70.4;70.4;0.0;7600.0;7600.0;2.09500004E8;7600.0;-33.455961;-70.568078;6119;24;2351;true;;
+211612;Venta Nuevo;Metropolitana;Lo Barnechea;true;false;;4;4;0;02-10-2013;311.24;311.24;736.0;0.0;23861.0;23861.0;6.57747315E8;23861.0;-33.348794;-70.542294;5040;2;463;true;;
+826321;Venta Nuevo;Metropolitana;Lo Barnechea;true;false;;4;3;0;06-07-2017;233.0;233.0;653.0;0.0;20455.0;20455.0;5.63858234E8;20455.0;-33.317076;-70.568843;1091;2;197;true;;
+1006393;Venta Nuevo;Metropolitana;Peñalolén;true;false;;4;4;0;08-05-2018;213.6;213.6;545.9;0.0;11084.0;11084.0;3.05539216E8;11084.0;-33.4722335;-70.5253718;484;1;101;true;;
+586709;Venta Nuevo;Metropolitana;Melipilla;true;false;;3;3;0;16-06-2016;98.72;98.72;239.61;0.0;3919.0;3919.0;1.08030331E8;3919.0;-33.694409;-71.209193;2494;4;548;true;;
+474292;Venta Nuevo;Metropolitana;Peñalolén;true;false;;4;4;0;24-11-2015;140.0;140.0;377.18;0.0;10732.0;10732.0;2.95836058E8;10732.0;-33.479426;-70.520729;5037;10;819;true;;
+198468;Venta Nuevo;Metropolitana;Colina;true;false;;4;4;0;18-05-2010;200.13;200.13;602.0;0.0;12350.0;12350.0;3.40437506E8;12350.0;-33.248203;-70.624897;4684;10;345;true;;
+445388;Venta Nuevo;Metropolitana;Colina;true;false;;3;2;0;06-10-2015;140.0;140.0;447.0;0.0;9385.0;9385.0;2.58704939E8;9385.0;-33.26252;-70.645512;31869;5;779;true;;
+1104666;Venta Nuevo;Metropolitana;Buin;true;false;;3;1;0;23-10-2018;52.43;52.43;52.43;0.0;1670.0;1670.0;4.6034869E7;1670.0;-33.7243347;-70.7414695;1071;10;224;true;;http://www.cbiobio.cl/Web%20Buin/Mario%20Ortiz%20Silva/Mario_Ortiz_Silva.html
+819251;Venta Nuevo;Metropolitana;Colina;true;false;;3;3;0;21-06-2017;130.0;130.0;468.0;0.0;6823.0;6823.0;1.88081385E8;6823.0;-33.213722;-70.733328;830;1;176;true;;
+1101828;Venta Nuevo;Metropolitana;Las Condes;true;false;;4;3;0;18-10-2018;345.0;345.0;345.0;0.0;32520.0;32520.0;8.9643949E8;32520.0;-33.398064;-70.52879;273;1;47;true;;http://1416.cl/index.php
+297993;Venta Nuevo;Los Ríos;Valdivia;true;false;;2;1;0;11-11-2014;48.0;48.0;235.0;0.0;1410.0;1410.0;3.8867763E7;1410.0;-39.852662;-73.246956;23527;31;3127;true;;
+1066382;Venta Nuevo;Coquimbo;La Serena;true;false;;3;1;0;13-08-2018;47.0;47.0;148.0;0.0;1280.0;1280.0;3.5284211E7;1280.0;-29.870036;-71.269842;3790;13;359;true;;https://www.desco.cl/proyectos/torreones-de-serena/
+249922;Venta Nuevo;Magallanes y Antárt.;Punta Arenas;true;false;;3;1;0;04-05-2011;56.0;56.0;56.0;0.0;2350.0;2350.0;6.4779606E7;2350.0;-53.146178;-70.929279;573;1;24;true;;http://www.socovesa.cl/proyectos/proyecto-jardin-de-la-patagonia/modelos/jardin-de-la-patagoniacasa-
+199125;Venta Nuevo;Biobío;Talcahuano;true;false;;3;1;0;13-05-2013;63.92;63.92;115.0;0.0;1928.0;1928.0;5.3146843E7;1928.0;-36.751677;-73.08672;18209;10;1543;true;;
+743174;Venta Nuevo;Metropolitana;Puente Alto;true;false;;2;2;0;03-03-2017;55.0;55.0;55.0;0.0;1650.0;1650.0;4.5483553E7;1650.0;-33.607743;-70.542029;27907;82;13462;true;;
+198808;Venta Nuevo;Coquimbo;La Serena;true;false;;3;2;0;04-05-2012;90.0;90.0;100.0;0.0;3776.0;3776.0;1.04088423E8;3776.0;-29.92206;-71.235698;10699;6;1292;true;;
+1066533;Venta Nuevo;Valparaiso;Zapallar;true;false;;3;1;0;13-08-2018;54.31;54.31;54.31;0.0;1400.0;1400.0;3.8592106E7;1400.0;-32.566591;-71.267464;1405;9;150;true;;http://lacruzinmobiliaria.cl/portfolio/nueva-vida-2/
+723751;Venta Nuevo;Metropolitana;Colina;true;false;;4;4;0;18-01-2017;284.0;284.0;284.0;0.0;21930.0;21930.0;6.04517774E8;21930.0;-33.285741;-70.690441;1051;4;119;true;;
+1078802;Venta Nuevo;Metropolitana;Buin;true;false;;2;1;0;04-09-2018;50.94;50.94;50.94;0.0;1450.0;1450.0;3.9970395E7;1450.0;-33.746387;-70.746468;1263;3;318;true;;http://invica.cl/zona_centro/cardenal-raul-silva-henriquez-ex-maitenes-villaseca/
+297674;Venta Nuevo;Maule;Talca;true;false;;3;2;0;07-11-2014;85.0;85.0;210.0;0.0;1690.0;1690.0;4.6586185E7;1690.0;-35.444304;-71.616967;8274;14;1066;true;;
+800673;Venta Nuevo;Metropolitana;San Bernardo;true;false;;3;3;0;23-05-2017;72.35;72.35;72.35;0.0;2820.0;2820.0;7.7735527E7;2820.0;-33.64004;-70.692347;2510;9;878;true;;
+448291;Venta Nuevo;Metropolitana;La Florida;true;false;;3;3;0;13-10-2015;81.0;81.0;101.0;0.0;3790.0;3790.0;1.04474344E8;3790.0;-33.529996;-70.583787;15360;35;3651;true;;
+1066516;Venta Nuevo;Valparaiso;Zapallar;true;false;;3;1;0;13-08-2018;54.31;54.31;54.31;0.0;1400.0;1400.0;3.8592106E7;1400.0;-32.566741;-71.268221;1235;6;110;true;;http://lacruzinmobiliaria.cl/portfolio/aires-de-catapilco-ii-2/
+320387;Venta Nuevo;Bernardo OHiggins ;Machalí;true;false;;4;3;0;30-12-2014;132.0;132.0;394.0;0.0;4500.0;4500.0;1.24046055E8;4500.0;-34.166982;-70.672233;2938;3;282;true;;
+1066466;Venta Nuevo;Valparaiso;Llay-Llay;true;false;;3;2;0;13-08-2018;60.0;60.0;60.0;0.0;1760.0;1760.0;4.851579E7;1760.0;-32.835782;-70.946383;533;0;41;true;;http://lacruzinmobiliaria.cl/portfolio/barrio-norte-llay-llay/
+327905;Venta Nuevo;Biobío;Chillán;true;false;;3;2;0;14-01-2015;73.57;73.57;73.57;0.0;2390.0;2390.0;6.5882238E7;2390.0;-36.624787;-72.070987;6565;2;523;true;;
+239452;Venta Nuevo;Metropolitana;Puente Alto;true;false;;3;3;0;09-05-2014;88.0;88.0;185.0;0.0;4800.0;4800.0;1.32315792E8;4800.0;-33.555105;-70.533331;9844;12;1437;true;;
+971510;Venta Nuevo;Metropolitana;Colina;true;false;;3;3;0;20-03-2018;121.0;121.0;370.0;0.0;7030.0;7030.0;1.93787503E8;7030.0;-33.218698;-70.730078;379;0;118;true;;
+1080082;Venta Nuevo;Metropolitana;Las Condes;true;false;;4;4;0;06-09-2018;291.05;291.05;544.36;0.0;29448.0;29448.0;8.11757383E8;29448.0;-33.392301;-70.521699;451;0;49;true;;https://www.brotecinmobiliaria.cl/la-fuente/
+199132;Venta Nuevo;Valparaiso;Quilpué;true;false;;3;2;0;15-05-2013;87.89;87.89;186.14;0.0;2748.0;2748.0;7.575079E7;2748.0;-33.033906;-71.412055;14059;19;2653;true;;
+424824;Venta Nuevo;Metropolitana;Colina;true;false;;3;3;0;20-08-2015;172.0;172.0;484.98;0.0;11650.0;11650.0;3.21141453E8;11650.0;-33.264481;-70.64945;23811;2;564;true;;
+198705;Venta Nuevo;Metropolitana;Buin;true;false;;3;2;0;23-01-2012;94.0;94.0;311.0;0.0;2890.0;2890.0;7.9665133E7;2890.0;-33.735475;-70.720968;14573;29;1506;true;;
+198245;Venta Nuevo;Metropolitana;Quilicura;true;false;;3;2;0;01-11-2007;95.0;95.0;162.0;0.0;4587.0;4587.0;1.26444278E8;4587.0;-33.377552;-70.718597;11152;15;2103;true;;
+198461;Venta Nuevo;Metropolitana;Buin;true;false;;3;1;0;07-12-2009;55.84;55.84;148.0;0.0;2131.0;2131.0;5.8742698E7;2131.0;-33.735056;-70.723683;15309;35;5679;true;;
+494035;Venta Nuevo;Valparaiso;Villa Alemana;true;false;;3;3;0;07-01-2016;123.0;123.0;300.0;0.0;5926.0;5926.0;1.63354871E8;5926.0;-33.054839;-71.338069;5423;2;327;true;;
+1076607;Venta Nuevo;Metropolitana;Santiago;true;false;;2;2;0;30-08-2018;97.0;97.0;97.0;0.0;5790.0;5790.0;1.59605924E8;5790.0;-33.437109;-70.672872;733;2;159;true;;http://inmobiliariasd.cl/proyecto/santiago-patrimonial-iii/
+198564;Venta Nuevo;Metropolitana;San Bernardo;true;false;;3;3;0;01-06-2011;98.0;98.0;206.6;0.0;3621.0;3621.0;9.9815725E7;3621.0;-33.627287;-70.679808;23354;10;950;true;;
+1139501;Venta Nuevo;Araucanía;Temuco;true;false;;3;3;0;13-12-2018;86.0;86.0;152.0;0.0;3420.0;3420.0;9.4275001E7;3420.0;-38.756895;-72.658443;30;1;3;true;;www.socovesa.cl/proyectos/altos-del-maipo/
+1066407;Venta Nuevo;Valparaiso;La Cruz;true;false;;3;1;0;13-08-2018;52.95;52.95;52.95;0.0;1400.0;1400.0;3.8592106E7;1400.0;-32.848739;-71.227689;878;1;85;true;;http://codeh.cl/barrio-italia/
+1148847;Venta Nuevo;Metropolitana;Isla de Maipo;true;false;;3;3;0;02-01-2019;93.6;93.6;204.0;0.0;3750.0;3750.0;1.03371712E8;3750.0;-33.770631;-70.902084;27;0;3;true;;
+198606;Venta Nuevo;Biobío;Chillán;true;false;;3;2;0;12-08-2011;80.0;80.0;80.0;0.0;2150.0;2150.0;5.9266448E7;2150.0;-36.590834;-72.102263;7244;7;844;true;;
+249919;Venta Nuevo;Bernardo OHiggins ;Graneros;true;false;;2;1;0;04-05-2011;48.0;48.0;48.0;0.0;1192.0;1192.0;3.2858421E7;1192.0;-34.061061;-70.729884;8777;7;1295;true;;
+198268;Venta Nuevo;Coquimbo;La Serena;true;false;;3;2;0;01-11-2007;63.0;63.0;63.0;0.0;2990.0;2990.0;8.2421712E7;2990.0;-29.922376;-71.228571;10798;4;1275;true;;
+319118;Venta Nuevo;Bernardo OHiggins ;Las Cabras;true;false;;4;4;0;29-12-2014;140.0;140.0;846.0;0.0;6550.0;6550.0;1.80555924E8;6550.0;-34.15607;-71.421969;3073;0;125;true;;
+822293;Venta Nuevo;Valparaiso;Limache;true;false;;3;3;0;28-06-2017;112.54;112.54;520.0;0.0;4900.0;4900.0;1.35072371E8;4900.0;-32.995338;-71.235012;755;1;109;true;;
+1072892;Venta Nuevo;Maule;Molina;true;false;;4;1;0;23-08-2018;84.0;84.0;84.0;0.0;1250.0;1250.0;3.4457237E7;1250.0;-35.109635;-71.302897;602;1;56;true;;http://fervali.cl/valles-de-molina-iii-y-iv/
+198766;Venta Nuevo;Valparaiso;San Felipe;true;false;;3;2;0;05-04-2012;65.0;65.0;65.0;0.0;2850.0;2850.0;7.8562501E7;2850.0;-32.74157;-70.691249;494;0;10;true;;
+1003248;Venta Nuevo;Metropolitana;San Bernardo;true;false;;3;3;0;04-05-2018;67.0;67.0;89.0;0.0;2500.0;2500.0;6.8914475E7;2500.0;-33.5718676;-70.6780346;1864;11;549;true;;www.donacatalina.cl
+1075199;Venta Nuevo;Metropolitana;La Florida;true;false;;3;2;0;28-08-2018;70.41;70.41;63.77;0.0;3822.0;3822.0;1.05356449E8;3822.0;-33.56076;-70.567004;946;3;179;true;;http://www.rimaza.cl/property/condominio-diego-portales/
+458207;Venta Nuevo;Metropolitana;La Reina;true;false;;5;4;0;22-10-2015;190.0;190.0;418.0;0.0;15150.0;15150.0;4.17621718E8;15150.0;-33.437233;-70.518381;3815;12;604;true;;
+1066406;Venta Nuevo;Coquimbo;Ovalle;true;false;;3;1;0;13-08-2018;58.75;58.75;0.0;0.0;1815.0;1815.0;5.0031908E7;1815.0;-30.590578;-71.175761;451;0;38;true;;http://www.ecomac.cl/ctp_proyectos/terrazas-del-valle/
+198397;Venta Nuevo;Metropolitana;San Bernardo;true;false;;4;3;0;11-04-2008;102.0;102.0;159.0;0.0;3500.0;3500.0;9.6480265E7;3500.0;-33.632809;-70.676304;8421;12;1508;true;;
+864247;Venta Nuevo;Araucanía;Temuco;true;false;;3;3;0;11-09-2017;86.0;86.0;86.0;0.0;3410.0;3410.0;9.3999343E7;3410.0;-38.757013;-72.658436;1409;0;179;true;;http://www.socovesa.cl/proyectos/altos-del-maipo/
+198367;Venta Nuevo;Biobío;Concepción;true;false;;3;2;0;02-01-2008;72.66;72.66;83.71;0.0;2531.0;2531.0;6.9769014E7;2531.0;-36.818527;-73.006511;10290;14;1552;true;;
+837991;Venta Nuevo;Biobío;Chillán;true;false;;3;1;0;31-07-2017;47.98;47.98;0.0;0.0;1490.0;1490.0;4.1073027E7;1490.0;-36.592535;-72.120132;17537;9;2879;true;;
+681145;Venta Nuevo;Metropolitana;El Bosque;true;false;;3;2;0;02-05-2016;75.0;75.0;100.0;0.0;2690.0;2690.0;7.4151975E7;2690.0;-33.574272;-70.662461;4292;9;935;true;;
+334672;Venta Nuevo;Biobío;Los Ángeles;true;false;;3;2;0;29-01-2015;99.58;99.58;99.58;0.0;2990.0;2990.0;8.2421712E7;2990.0;-37.480607;-72.350864;3577;1;284;true;;
+287333;Venta Nuevo;Valparaiso;Valparaíso;true;false;;3;1;0;09-10-2014;50.0;50.0;50.0;0.0;1545.0;1545.0;4.2589145E7;1545.0;-33.110964;-71.569896;20516;25;3451;true;;
+1066296;Venta Nuevo;Coquimbo;La Serena;true;false;;3;1;0;13-08-2018;50.75;50.75;0.0;0.0;1638.0;1638.0;4.5152764E7;1638.0;-29.870392;-71.271678;1258;2;160;true;;http://www.ecomac.cl/ctp_proyectos/dunas-de-san-pedro/
+985401;Venta Nuevo;Coquimbo;Coquimbo;true;false;;3;2;0;10-04-2018;92.44;92.44;280.0;0.0;4750.0;4750.0;1.30937502E8;4750.0;-29.987683;-71.351518;414;0;58;true;;http://www.ecasa.cl/ecasa/alto-herradura/
+838243;Venta Nuevo;Bernardo OHiggins ;Olivar;true;false;;3;3;0;01-08-2017;80.88;80.88;175.7;0.0;2800.0;2800.0;7.7184212E7;2800.0;-34.216377;-70.804767;707;2;134;true;;
+283918;Venta Nuevo;Valparaiso;Quilpué;true;false;;3;3;0;03-10-2014;96.35;96.35;57.29;0.0;2860.0;2860.0;7.8838159E7;2860.0;-33.069202;-71.413761;7479;7;1245;true;;
+1103774;Venta Nuevo;Los Ríos;Río Bueno;true;false;;3;1;0;22-10-2018;53.16;53.16;53.16;0.0;1400.0;1400.0;3.8592106E7;1400.0;-40.330255;-72.940477;446;0;25;true;;http://www.casaspiruco.cl/riobueno/tc/proyecto.php
+1066252;Venta Nuevo;Bernardo OHiggins ;Rengo;true;false;;3;2;0;13-08-2018;71.0;71.0;71.0;0.0;2000.0;2000.0;5.513158E7;2000.0;-34.409859;-70.866151;708;5;88;true;;http://www.ibaker.cl/casa_rengo.html#1
+512461;Venta Nuevo;Metropolitana;Maipú;true;false;;3;3;0;22-02-2016;140.0;140.0;140.0;0.0;9180.0;9180.0;2.53053952E8;9180.0;-33.563792;-70.774362;7387;6;460;true;;
+325505;Venta Nuevo;Biobío;Chillán;true;false;;3;2;0;09-01-2015;68.26;68.26;68.26;0.0;1850.0;1850.0;5.0996711E7;1850.0;-36.60863;-72.067038;21061;10;2340;true;;https://www.enlacebiobio.cl/chillan/casa/los-dominicos-de-chillan/973
+512457;Venta Nuevo;Metropolitana;Lo Barnechea;true;false;;3;3;0;22-02-2016;140.0;140.0;768.0;0.0;13968.0;13968.0;3.85038954E8;13968.0;-33.33222;-70.511174;3096;8;373;true;;
+560877;Venta Nuevo;Valparaiso;Villa Alemana;true;false;;3;2;0;27-04-2016;64.05;64.05;85.78;0.0;1540.0;1540.0;4.2451316E7;1540.0;-33.061635;-71.355885;7810;19;2422;true;;
+853416;Venta Nuevo;Metropolitana;Padre Hurtado;true;false;;3;3;0;23-08-2017;86.64;86.64;224.2;0.0;4546.0;4546.0;1.25314081E8;4546.0;-33.572003;-70.823378;1238;3;306;true;;
+1104607;Venta Nuevo;Metropolitana;Maipú;true;false;;4;3;0;23-10-2018;140.0;140.0;1015.0;0.0;9730.0;9730.0;2.68215136E8;9730.0;-33.550695;-70.7786777;271;0;21;true;;http://www.luces.cl/JardinesdeChena/
+430530;Venta Nuevo;Metropolitana;Colina;true;false;;3;3;0;01-09-2015;115.0;115.0;286.44;0.0;5495.0;5495.0;1.51474016E8;5495.0;-33.22222;-70.678971;4496;10;417;true;;
+198477;Venta Nuevo;Metropolitana;Colina;true;false;;3;2;0;03-09-2010;81.0;81.0;149.0;0.0;2745.0;2745.0;7.5668093E7;2745.0;-33.216108;-70.685023;13224;33;4050;true;;
+1147165;Venta Nuevo;Metropolitana;Talagante;true;false;;3;3;0;27-12-2018;140.0;140.0;5000.0;0.0;9500.0;9500.0;2.61875005E8;9500.0;-33.699547;-70.866897;18;0;2;true;;
+560116;Venta Nuevo;Valparaiso;Quilpué;true;false;;3;3;0;25-04-2016;90.82;90.82;137.68;0.0;3330.0;3330.0;9.179408E7;3330.0;-33.035694;-71.442202;3922;10;818;true;;
+1132108;Venta Nuevo;Metropolitana;La Florida;true;false;;3;3;0;06-12-2018;140.0;140.0;407.0;0.0;8450.0;8450.0;2.32930925E8;8450.0;-33.538075;-70.548141;212;2;27;true;;www.inmobiliariasip.cl/sitio/proyecto/ubicacion.php?id=40&pagina=proyecto&subpagina=ubicacion
+249718;Venta Nuevo;Biobío;Los Ángeles;true;false;;3;3;0;22-01-2013;94.82;94.82;185.73;0.0;3089.0;3089.0;8.5150725E7;3089.0;-37.456876;-72.33525;5137;1;427;true;;
+962479;Venta Nuevo;Coquimbo;Ovalle;true;false;;3;2;0;05-03-2018;73.98;73.98;164.0;0.0;2834.0;2834.0;7.8121448E7;2834.0;-30.589294;-71.197766;393;0;58;true;;
+838111;Venta Nuevo;Metropolitana;Puente Alto;true;false;;3;3;0;01-08-2017;106.38;106.38;152.46;0.0;5455.0;5455.0;1.50371384E8;5455.0;-33.599009;-70.520213;1338;11;306;true;;www.vizcachasmediterraneas.cl
+738677;Venta Nuevo;Bernardo OHiggins ;Rancagua;true;false;;2;1;0;21-02-2017;47.0;47.0;81.0;0.0;1400.0;1400.0;3.8592106E7;1400.0;-34.176936;-70.7063;5915;10;1534;true;;
+1075036;Venta Nuevo;Biobío;Hualqui;true;false;;3;2;0;28-08-2018;68.0;68.0;68.0;0.0;2200.0;2200.0;6.0644738E7;2200.0;-36.96193;-72.928785;398;0;24;true;;https://www.vivehogar.cl/proyectos/terrazas-de-hualqui-hualqui
+245969;Venta Nuevo;Biobío;Hualpén;true;false;;3;2;0;06-06-2014;61.0;61.0;61.0;0.0;2595.0;2595.0;7.1533225E7;2595.0;-36.799851;-73.112141;6290;3;236;true;;
+1081506;Venta Nuevo;Araucanía;Temuco;true;false;;3;1;0;10-09-2018;67.24;67.24;67.24;0.0;1700.0;1700.0;4.6861843E7;1700.0;-38.7243;-72.562373;1608;1;179;true;;http://martabid.com/public/modelo.xhtml;jsessionid=BMV32zXRMVQd8b805bkByA?modeloId=103680001
+474814;Venta Nuevo;Metropolitana;Melipilla;true;false;;3;2;0;25-11-2015;78.0;78.0;78.0;0.0;2290.0;2290.0;6.3125659E7;2290.0;-33.688684;-71.208504;7424;9;1078;true;;
+332503;Venta Nuevo;Biobío;Los Ángeles;true;false;;3;3;0;27-01-2015;110.0;110.0;110.0;0.0;3350.0;3350.0;9.2345396E7;3350.0;-37.460665;-72.365433;5155;3;383;true;;
+1085724;Venta Nuevo;Los Lagos;Osorno;true;false;;3;1;0;20-09-2018;66.66;66.66;66.66;0.0;1800.0;1800.0;4.9618422E7;1800.0;-40.570199;-73.175156;910;2;112;true;;http://www.martabid.com/public/proyecto.xhtml?proyectoId=12150012
+560375;Venta Nuevo;Metropolitana;Puente Alto;true;false;;3;3;0;26-04-2016;91.81;91.81;185.0;0.0;4046.0;4046.0;1.11531186E8;4046.0;-33.594627;-70.518122;2996;3;545;true;;
+334711;Venta Nuevo;Biobío;Los Ángeles;true;false;;3;2;0;29-01-2015;62.26;62.26;62.26;0.0;1200.0;1200.0;3.3078948E7;1200.0;-37.474742;-72.332514;8716;5;232;true;;https://www.enlacebiobio.cl/los-angeles/casa/portal-manso-de-velasco/984
+198443;Venta Nuevo;Valparaiso;Valparaíso;true;false;;3;2;0;28-07-2009;97.0;97.0;125.3;0.0;3200.0;3200.0;8.8210528E7;3200.0;-33.120444;-71.579168;12851;12;1566;true;;http://www.galilea.cl/las-brisas-de-curauma/
+198700;Venta Nuevo;Metropolitana;Buin;true;false;;3;1;0;10-01-2012;56.74;56.74;116.0;0.0;1950.0;1950.0;5.375329E7;1950.0;-33.734494;-70.749142;17695;49;6124;true;;
+752215;Venta Nuevo;Los Ríos;Valdivia;true;false;;3;3;0;04-05-2016;130.45;130.45;130.45;0.0;4109.0;4109.0;1.13267831E8;4109.0;-39.832902;-73.268257;2213;0;266;true;;
+236384;Venta Nuevo;Biobío;Talcahuano;true;false;;3;2;0;24-04-2014;76.56;76.56;130.0;0.0;2591.0;2591.0;7.1422961E7;2591.0;-36.748922;-73.081686;15680;12;2077;true;;
+1066425;Venta Nuevo;Valparaiso;La Cruz;true;false;;3;1;0;13-08-2018;52.95;52.95;52.95;0.0;1400.0;1400.0;3.8592106E7;1400.0;-32.848759;-71.227671;583;2;62;true;;http://codeh.cl/barrio-italia/
+1053834;Venta Nuevo;Metropolitana;Lampa;true;false;;3;3;0;21-07-2018;82.86;82.86;82.86;0.0;3293.0;3293.0;9.0774146E7;3293.0;-33.302751;-70.737436;393;1;41;true;;https://www.bricsa.cl/proyectos-inmobiliarios/las-tranqueras-casa
+1077238;Venta Nuevo;Metropolitana;Padre Hurtado;true;false;;3;2;0;31-08-2018;65.13;65.13;136.04;0.0;2900.0;2900.0;7.9940791E7;2900.0;-33.571091;-70.823676;754;4;270;true;;https://www.urbaniza.cl/condominio-santa-herminia/ubicacion/
+869057;Venta Nuevo;Metropolitana;Padre Hurtado;true;false;;3;3;0;02-10-2017;88.0;88.0;135.0;0.0;3563.0;3563.0;9.8216909E7;3563.0;-33.572003;-70.823391;1754;10;642;true;;
+674955;Venta Nuevo;Metropolitana;Talagante;true;false;;3;2;0;24-10-2016;67.0;67.0;67.0;0.0;2690.0;2690.0;7.4151975E7;2690.0;-33.652594;-70.920988;12889;5;2020;true;;https://www.icalto.cl/condominio-la-foresta/
+1073533;Venta Nuevo;Biobío;Bulnes;true;false;;3;2;0;24-08-2018;55.24;55.24;55.24;0.0;1400.0;1400.0;3.8592106E7;1400.0;-36.74189;-72.301807;377;1;39;true;;http://itrio.cl/proyectos/3-conjunto-las-camelias.html
+1151526;Venta Nuevo;Biobío;Talcahuano;true;false;;2;2;0;07-01-2019;86.0;86.0;86.0;0.0;3800.0;3800.0;1.04750002E8;3800.0;-36.77307;-73.075889;2;0;0;true;;www.valmar.cl/proyectos-en-venta/casas/lomas-de-san-andres-proyecto-townhouse/
+262763;Venta Nuevo;Metropolitana;Buin;true;false;;3;3;0;06-08-2014;107.0;107.0;373.0;0.0;4660.0;4660.0;1.28456581E8;4660.0;-33.757181;-70.737149;6617;13;886;true;;
+1087541;Venta Nuevo;Los Lagos;Puerto Montt;true;false;;3;1;0;25-09-2018;66.66;66.66;0.0;0.0;1600.0;1600.0;4.4105264E7;1600.0;-41.484046;-72.997932;626;0;43;true;;
+198805;Venta Nuevo;Valparaiso;Villa Alemana;true;false;;3;3;0;02-05-2012;124.54;124.54;312.25;0.0;5390.0;5390.0;1.48579608E8;5390.0;-33.059608;-71.329958;5352;3;298;true;;
+448005;Venta Nuevo;Metropolitana;Lo Barnechea;true;false;;3;4;0;13-10-2015;170.0;170.0;230.0;0.0;12490.0;12490.0;3.44296717E8;12490.0;-33.364472;-70.540782;4218;22;684;true;;
+823575;Venta Nuevo;Metropolitana;Colina;true;false;;3;3;0;04-07-2017;141.0;141.0;372.31;0.0;8388.0;8388.0;2.31221846E8;8388.0;-33.316041;-70.649848;994;8;244;true;;
+964581;Venta Nuevo;Metropolitana;La Reina;true;false;;3;3;0;08-03-2018;121.22;121.22;121.22;0.0;8686.0;8686.0;2.39436451E8;8686.0;-33.460112;-70.567159;1201;7;290;true;;
+198974;Venta Nuevo;Metropolitana;Cerrillos;true;false;;3;3;0;19-12-2012;84.0;84.0;84.0;0.0;4340.0;4340.0;1.19635528E8;4340.0;-33.509499;-70.705508;6123;4;728;true;;

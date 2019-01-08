@@ -108,7 +108,7 @@ public class ArriendoDepartamentos extends Thread{
                     //if(!JSONObject.NULL.equals(jsonProperties.get("CodigoPropiedad"))){CodigoPropiedad = jsonProperties.getString("CodigoPropiedad");}
                     if(!JSONObject.NULL.equals(jsonProperties.get("UriFicha"))){UriFicha = jsonProperties.getString("UriFicha");}
                     if(!JSONObject.NULL.equals(jsonProperties.get("Data"))){Data = jsonProperties.getJSONObject("Data");
-                        if(!JSONObject.NULL.equals(jsonProperties.get("Propiedad"))){Propiedad = Data.getJSONObject("Propiedad");
+                        if(!JSONObject.NULL.equals(Data.get("Propiedad"))){Propiedad = Data.getJSONObject("Propiedad");
                             if(!JSONObject.NULL.equals(Propiedad.get("MetrosUtiles"))){MetrosUtiles = Propiedad.getDouble("MetrosUtiles");}
                             if(!JSONObject.NULL.equals(Propiedad.get("MetrosTerraza"))){MetrosTerraza = Propiedad.getDouble("MetrosTerraza");}
                             if(!JSONObject.NULL.equals(Propiedad.get("MetrosConstruidos"))){MetrosConstruidos = Propiedad.getDouble("MetrosConstruidos");}
