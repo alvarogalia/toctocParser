@@ -6,7 +6,7 @@ public class DescargaPropiedades {
 
         String PATH = "out\\";
         File directory = new File(PATH);
-        if (! directory.exists()){
+        if (!directory.exists()) {
             directory.mkdir();
         }
 
